@@ -1,0 +1,65 @@
+/* ========================================================
+   CSS DASAR (SUDAH DISIAPKAN)
+   ======================================================== */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f2f5;
+  line-height: 1.6;
+}
+
+header {
+  background: #2c3e50;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.container {
+  display: flex;
+  padding: 20px;
+  gap: 20px;
+  /* Secara default (Desktop), item berjejer ke samping */
+  flex-direction: row;
+}
+
+.card {
+  background: #fff;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  flex: 1;
+  border-top: 5px solid #3498db;
+}
+
+.card h2 {
+  margin-bottom: 10px;
+  color: #2c3e50;
+}
+
+/* ========================================================
+   TUGAS KAMU: MEDIA QUERY
+   ========================================================
+   Instruksi:
+   1. Buat media query untuk layar dengan lebar MAKSIMAL 600px.
+   2. Di dalamnya, ubah .container agar flex-direction menjadi column.
+   3. (Opsional) Ubah warna background .card agar berbeda saat di HP.
+   ======================================================== */
+
+/* TULIS DI BAWAH INI */
+@media (max-width: 600px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+  .card {
+    background: #f0f0f0;
+  }
+}

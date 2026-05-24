@@ -12,6 +12,10 @@ Proyek ini berisi kumpulan latihan dasar untuk memahami struktur web (HTML) dan 
 - `02-css/`: Materi dasar CSS.
   - `01-css-dasar/`: Penentuan warna latar belakang, font, dan styling elemen dasar.
 
+## Struktur Belajar
+- `Materi`: Fokus pada pemahaman konsep baru.
+- `Tantangan`: Fokus pada implementasi dan problem solving (cek `CHALLENGES.md`).
+
 ## Progres Saat Ini
 1.  **HTML Dasar:**
     - [x] Struktur dasar dokumen HTML.
@@ -30,4 +34,11 @@ Proyek ini berisi kumpulan latihan dasar untuk memahami struktur web (HTML) dan 
     - [x] CSS Box Model.
     - [x] CSS Layout (Flexbox & Grid).
 - [ ] Mempelajari Responsive Web Design (Media Queries - Sedang dipelajari).
-- Pengenalan JavaScript dasar.
+- [x] Latihan Media Query (05-responsive).
+3. **JavaScript Dasar:**
+    - [x] Variabel dan Tipe Data.
+    - [x] Operasi Matematika.
+    - [x] Fungsi (Function).
+    - [ ] DOM Manipulation (Menghubungkan JS ke HTML - Sedang dipelajari).
+    - [ ] Tantangan #03: Toggle Mode Malam (Belum selesai).
+
