@@ -23,12 +23,11 @@ Proyek ini berisi kumpulan latihan dasar untuk memahami struktur web (HTML) dan 
     - [x] Dasar-dasar tabel (`table`, `tr`, `th`).
 
 2.  **CSS Dasar:**
-    - [x] Internal/External CSS (sedang dipelajari).
+    - [x] Internal/External CSS.
     - [x] Properti warna (`color`, `background-color`).
     - [x] Pengaturan font (`font-family`, `font-size`).
     - [x] Styling tombol sederhana.
-
-## Rencana Selanjutnya
-- Mempelajari CSS Layout (Flexbox & Grid).
-- Mempelajari Responsive Web Design (Media Queries).
+    - [x] CSS Box Model.
+    - [x] CSS Layout (Flexbox & Grid).
+- [ ] Mempelajari Responsive Web Design (Media Queries - Sedang dipelajari).
 - Pengenalan JavaScript dasar.

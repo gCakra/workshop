@@ -1,0 +1,33 @@
+/* LATIHAN FLEXBOX */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.container {
+  background-color: #ddd;
+  border: 2px dashed #999;
+  min-height: 200px;
+  display: flex;
+  /* TUGAS: Aktifkan flex di sini */
+}
+
+.item {
+  background-color: royalblue;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  min-width: 60px;
+  flex: 1 1 auto;
+}
+.item:last-child {
+  order: -1;
+}

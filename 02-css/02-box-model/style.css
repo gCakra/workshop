@@ -1,0 +1,42 @@
+/* 
+  LATIHAN BOX MODEL 
+  -----------------
+  Ingat rumusnya: 
+  Margin (luar) -> Border (garis) -> Padding (dalam) -> Content (isi)
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.box-1 {
+  background-color: lightblue;
+  /* TUGAS 1: Tambahkan padding 20px */
+  padding: 20px;
+  /* TUGAS 2: Tambahkan border solid 5px warna steelblue */
+  border: solid 5px steelblue;
+  margin-bottom: 10px;
+  width: 300px;
+}
+
+.box-2 {
+  background-color: lightcoral;
+  /* TUGAS 3: Tambahkan marin-top 30px untuk memberi jarak dari Kotak Satu */
+  margin-top: 30px;
+  /* TUGAS 4: Tambahkan padding 40px */
+  padding: 40px;
+  border: 10px solid darkred;
+  width: 300px;
+}
+
+.instruksi {
+  margin-top: 50px;
+  background-color: #f0f0f0;
+  padding: 15px;
+  border-left: 5px solid #ccc;
+}
