@@ -39,6 +39,6 @@ Proyek ini berisi kumpulan latihan dasar untuk memahami struktur web (HTML) dan 
     - [x] Variabel dan Tipe Data.
     - [x] Operasi Matematika.
     - [x] Fungsi (Function).
-    - [ ] DOM Manipulation (Menghubungkan JS ke HTML - Sedang dipelajari).
-    - [ ] Tantangan #03: Toggle Mode Malam (Belum selesai).
+    - [x] DOM Manipulation (Menghubungkan JS ke HTML - Selesai Dasar).
+    - [ ] Tantangan #03: Toggle Mode Malam (Siap dikerjakan).
 
