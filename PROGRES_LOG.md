@@ -9,6 +9,7 @@ Proyek ini berisi kumpulan latihan dasar untuk memahami struktur web (HTML) dan 
 - `01-html/`: Materi dasar HTML.
   - `01-perkenalan/`: Dasar-dasar tag HTML (heading, paragraf, list, dll).
   - `02-multi-halaman/`: Navigasi antar halaman, link, tabel, dan gambar.
+- `Challenge/`: Folder khusus tantangan pengerjaan materi.
 - `02-css/`: Materi dasar CSS.
   - `01-css-dasar/`: Penentuan warna latar belakang, font, dan styling elemen dasar.
 
@@ -34,7 +35,7 @@ Proyek ini berisi kumpulan latihan dasar untuk memahami struktur web (HTML) dan 
     - [x] CSS Box Model.
     - [x] CSS Layout (Flexbox & Grid).
 - [ ] Mempelajari Responsive Web Design (Media Queries - Sedang dipelajari).
-- [x] Latihan Media Query (05-responsive).
+- [x] Latihan Media Query (04-responsive).
 3. **JavaScript Dasar:**
     - [x] Variabel dan Tipe Data.
     - [x] Operasi Matematika.
