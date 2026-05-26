@@ -18,14 +18,12 @@ Proyek ini berisi kumpulan latihan dasar untuk memahami struktur web (HTML) dan 
 - `Tantangan`: Fokus pada implementasi dan problem solving (cek `CHALLENGES.md`).
 
 ## Progres Saat Ini
-1.  **HTML Dasar:**
-    - [x] Struktur dasar dokumen HTML.
-    - [x] Penggunaan Heading (`h1`-`h6`) dan Paragraf (`p`).
-    - [x] Membuat daftar (`ul`, `li`).
-    - [x] Menggunakan garis pemisah (`hr`).
-    - [x] Navigasi antar halaman (`a href`).
-    - [x] Menampilkan gambar (`img`).
-    - [x] Dasar-dasar tabel (`table`, `tr`, `th`).
+1.  **HTML Dasar (Materi Baru - 2026):**
+    - [x] Pengenalan HTML & File Pertama.
+    - [x] Paragraf, Heading, & Kerangka Dokumen.
+    - [x] List (Ordered & Unordered).
+    - [x] Link & Image.
+    - [x] Komentar & Challenge Kartu Nama.
 
 2.  **CSS Dasar:**
     - [x] Internal/External CSS.

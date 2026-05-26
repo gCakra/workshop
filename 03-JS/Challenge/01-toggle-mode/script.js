@@ -1,7 +1,8 @@
-// TANTANGAN #03: TOGGLE MODE MALAM
-// 1. Ambil elemen yang dibutuhkan (Body & Tombol)
-const darkMode = document.querySelectot("body.dark-mode");
-const tombol = document.getElementById("btn-toggle");
-// 2. Tambahkan Event Listener 'click' pada tombol
+// Kita mulai dari nol. 
+// Langkah 1: Mencari tombol di HTML dan memberinya nama di JS.
 
-// 3. Di dalam fungsi, gunakan classList.toggle untuk class 'dark-mode'
+const tombol = document.getElementById("btn-toggle");
+
+// Untuk mengetes apakah JS sudah berhasil menemukan tombolnya, 
+// kita cetak ke "Console" browser.
+console.log(tombol);
