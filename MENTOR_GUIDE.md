@@ -20,9 +20,10 @@
   - `Challenge/`: 01-toggle-mode (AKTIF).
 
 ## 🎯 Status Belajar Terakhir
-- **Topik Aktif**: HTML Bagian 2 (Semantic & Block/Inline).
+- **Topik Aktif**: HTML Bagian 2 (Siap dimulai: Block vs Inline).
 - **Tantangan Sedang Dikerjakan**: `01-HTML/Challenge/01-kartu-nama` (SELESAI).
-- **Kendala Terakhir**: Nihil. User sudah paham dasar HTML.
+- **Kendala Terakhir**: Nihil.
+- **Sesi Berhenti di**: Akhir Bagian 1. Siap lanjut ke Bagian 2 (03-block-inline).
 
 ## 💡 Catatan Mentor Khusus
 
