@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Materi: Block vs Inline</title>
+    <style>
+        /* CSS sederhana untuk visualisasi */
+        .block-example {
+            background-color: lightcoral;
+            border: 2px solid red;
+            margin-bottom: 10px;
+        }
+
+        .inline-example {
+            background-color: lightgreen;
+            border: 2px solid green;
+        }
+
+        section {
+            margin-bottom: 30px;
+            padding: 10px;
+            border: 1px dashed gray;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Perbedaan Element Block dan Inline</h1>
+
+    <section>
+        <h2>1. Block-level Element (Contoh: &lt;div&gt;)</h2>
+        <p>Perhatikan bagaimana kotak merah (div) memanjang ke samping memenuhi seluruh layar meskipun teksnya sedikit.</p>
+        
+        <div class="block-example">Saya adalah DIV pertama</div>
+        <div class="block-example">Saya adalah DIV kedua (saya otomatis turun ke baris baru)</div>
+    </section>
+
+    <section>
+        <h2>2. Inline Element (Contoh: &lt;span&gt;)</h2>
+        <p>Perhatikan bagaimana kotak hijau (span) hanya selebar teksnya saja dan tidak memaksa baris baru.</p>
+        
+        <span class="inline-example">Saya adalah SPAN pertama</span>
+        <span class="inline-example">Saya adalah SPAN kedua (saya tetap di baris yang sama)</span>
+    </section>
+
+    <section>
+        <h2>3. Kenapa ini Penting?</h2>
+        <p>
+            Biasanya kita menggunakan <strong>&lt;div&gt;</strong> sebagai pembungkus besar (layout) 
+            dan <strong>&lt;span&gt;</strong> untuk mewarnai atau mengatur sebagian kecil teks di dalam paragraf.
+        </p>
+    </section>
+
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!-- 
+    CHALLENGE #02: REVIEW SEMANTIC & STRUKTUR HTML
+    ---------------------------------------------
+    Tugasmu adalah membuat sebuah halaman "Artikel Berita Singkat" 
+    dengan kriteria sebagai berikut:
+
+    1. Gunakan tag <header> untuk judul berita.
+    2. Gunakan tag <nav> untuk menu (isinya bebas, misal: Home, Berita, Kontak).
+    3. Gunakan tag <main> sebagai pembungkus utama konten.
+    4. Di dalam <main>, gunakan <article> untuk isi berita.
+    5. Di dalam artikel, sertakan:
+       - Heading untuk judul artikel.
+       - Paragraf yang menggunakan <br> untuk ganti baris.
+       - Gunakan <sup> untuk angka pangkat (misal: m²) atau <sub> untuk rumus kimia.
+    6. Gunakan <hr> untuk membatasi akhir artikel.
+    7. Gunakan <footer> yang berisi simbol Copyright (&copy;) menggunakan Entity Code.
+
+    BONUS (Opsional):
+    - Tambahkan tag <aside> untuk informasi "Berita Populer" di bawah atau samping artikel.
+-->
+
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Challenge 02: Artikel Semantic</title>
+  </head>
+  <body>
+    <!-- KERJAKAN DI BAWAH INI -->
+    <header>
+      <h1>Warta Belajar HTML</h1>
+    </header>
+
+    <nav>
+      <strong>Logo</strong>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Berita</a></li>
+        <li><a href="#">Kontak</a></li>
+      </ul>
+    </nav>
+
+    <main>
+      <article>
+        <h2>Inovasi Baru: Eksplorasi H<sub>2</sub>O</h2>
+        <p>
+          Ilmuwan melaporkan temuan mengejutkan di area seluas 100<sup>2</sup> meter persegi.<br />
+          Penelitian ini membuktikan bahwa struktur kimia air tetap stabil dalam kondisi ekstrem.
+        </p>
+      </article>
+
+      <aside>
+        <h3>Berita Populer</h3>
+        <ul>
+          <li>Belajar Tag Semantic</li>
+          <li>Mengenal Entity Code</li>
+        </ul>
+      </aside>
+    </main>
+
+    <hr />
+
+    <footer>
+      <p>&copy; 2026 Author. All Rights Reserved.</p>
+    </footer>
+  </body>
+</html>

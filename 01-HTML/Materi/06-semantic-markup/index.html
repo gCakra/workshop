@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Materi: Semantic Markup</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 20px; }
+        header, nav, main, section, article, aside, footer {
+            border: 2px solid #ccc;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        header { background-color: #ffebee; }
+        nav { background-color: #e3f2fd; }
+        main { background-color: #f1f8e9; }
+        aside { background-color: #fff3e0; }
+        footer { background-color: #f3e5f5; }
+        code { background: #eee; padding: 2px 4px; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Judul Website (Header)</h1>
+        <p>Gunakan tag <code>&lt;header&gt;</code> untuk bagian pengantar atau navigasi utama.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Beranda</a></li>
+            <li><a href="#">Materi</a></li>
+            <li><a href="#">Kontak</a></li>
+        </ul>
+        <p>Tag <code>&lt;nav&gt;</code> khusus untuk menu navigasi.</p>
+    </nav>
+
+    <main>
+        <h2>Konten Utama (Main)</h2>
+        <p>Tag <code>&lt;main&gt;</code> hanya boleh ada SATU di setiap halaman. Isinya adalah konten unik halaman tersebut.</p>
+
+        <section>
+            <h3>Bagian Artikel (Section)</h3>
+            <p>Gunakan <code>&lt;section&gt;</code> untuk mengelompokkan konten yang berkaitan secara tematik.</p>
+            
+            <article>
+                <h4>Postingan Blog (Article)</h4>
+                <p>Tag <code>&lt;article&gt;</code> digunakan untuk konten yang bisa berdiri sendiri (seperti berita, blog post, atau komentar).</p>
+            </article>
+        </section>
+
+        <aside>
+            <h3>Info Sampingan (Aside)</h3>
+            <p>Digunakan untuk konten yang berkaitan secara tidak langsung dengan konten utama (seperti iklan, link populer, atau profil penulis).</p>
+        </aside>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Belajar Semantic HTML. Tag <code>&lt;footer&gt;</code> biasanya berisi info hak cipta atau kontak.</p>
+    </footer>
+
+</body>
+</html>

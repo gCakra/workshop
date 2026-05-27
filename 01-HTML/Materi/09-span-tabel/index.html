@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Merge Cells (Colspan & Rowspan) - HTML Dasar</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        line-height: 1.6;
+        padding: 20px;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+      }
+      th,
+      td {
+        border: 1px solid #333;
+        padding: 12px;
+        text-align: center;
+      }
+      thead {
+        background-color: #f4f4f4;
+      }
+      .highlight {
+        background-color: #fff3cd;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Materi: Menggabungkan Sel Tabel (colspan & rowspan)</h1>
+    <p>
+      Kadang kita perlu menggabungkan beberapa kotak (sel) menjadi satu, baik
+      secara mendatar maupun menurun.
+    </p>
+
+    <hr />
+
+    <h2>1. Colspan (Column Span)</h2>
+    <p>
+      Digunakan untuk menggabungkan kotak ke arah
+      <strong>kanan (mendatar)</strong>.
+    </p>
+    <table>
+      <thead>
+        <tr>
+          <th colspan="2">Nama Lengkap</th>
+          <th>Pekerjaan</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Budi</td>
+          <td>Susanto</td>
+          <td>Developer</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <br />
+
+    <h2>2. Rowspan (Row Span)</h2>
+    <p>
+      Digunakan untuk menggabungkan kotak ke arah
+      <strong>bawah (menurun)</strong>.
+    </p>
+    <table>
+      <thead>
+        <tr>
+          <th>Hari</th>
+          <th>Waktu</th>
+          <th>Kegiatan</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="3" class="highlight">Senin</td>
+          <td>08:00</td>
+          <td>Meeting</td>
+        </tr>
+        <tr>
+          <td>10:00</td>
+          <td>Coding</td>
+        </tr>
+        <tr>
+          <td>13:00</td>
+          <td>istirahat</td>
+        </tr>
+        <tr>
+          <td rowspan="2" class="highlight">Selasa</td>
+          <td>08.00</td>
+          <td>Game</td>
+        </tr>
+        <tr>
+          <td>10:00</td>
+          <td>Makan</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <section>
+      <h3>💡 Tips:</h3>
+      <ul>
+        <li><code>colspan="n"</code>: Mengambil jatah <em>n</em> kolom.</li>
+        <li><code>rowspan="n"</code>: Mengambil jatah <em>n</em> baris.</li>
+        <li>
+          Ingat! Jika sebuah sel sudah mengambil jatah sel lain (di kanan atau
+          di bawahnya), maka sel yang "diambil" tersebut tidak perlu ditulis
+          lagi tag <code>&lt;td&gt;</code>-nya.
+        </li>
+      </ul>
+    </section>
+
+    <a href="../08-semantic-table/index.html">⬅️ Kembali ke Semantic Table</a>
+  </body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Materi: HTML Entity Code</title>
+    <style>
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid black; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+    </style>
+</head>
+<body>
+
+    <h1>HTML Entity Code</h1>
+    <p>Entity code digunakan untuk menampilkan karakter yang sudah "dipesan" oleh HTML (seperti &lt; dan &gt;) atau karakter yang tidak ada di keyboard.</p>
+
+    <h2>1. Kenapa Kita Membutuhkannya?</h2>
+    <p>Jika kita menulis <strong><p></strong> secara langsung, browser akan menganggapnya sebagai tag. Tapi jika kita ingin MENAMPILKAN tulisan <p>, kita harus menulis: <code>&amp;lt;p&amp;gt;</code></p>
+
+    <h2>2. Tabel Karakter Umum</h2>
+    <table>
+        <tr>
+            <th>Hasil</th>
+            <th>Nama Entity</th>
+            <th>Kode Entity</th>
+        </tr>
+        <tr>
+            <td>&lt;</td>
+            <td>Less than</td>
+            <td><code>&amp;lt;</code></td>
+        </tr>
+        <tr>
+            <td>&gt;</td>
+            <td>Greater than</td>
+            <td><code>&amp;gt;</code></td>
+        </tr>
+        <tr>
+            <td>&amp;</td>
+            <td>Ampersand</td>
+            <td><code>&amp;amp;</code></td>
+        </tr>
+        <tr>
+            <td>&copy;</td>
+            <td>Copyright</td>
+            <td><code>&amp;copy;</code></td>
+        </tr>
+        <tr>
+            <td>&reg;</td>
+            <td>Registered</td>
+            <td><code>&amp;reg;</code></td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>Non-breaking space</td>
+            <td><code>&amp;nbsp;</code> (Spasi kosong)</td>
+        </tr>
+    </table>
+
+    <h2>3. Contoh Nyata</h2>
+    <p>Belajar HTML itu seru &amp; menantang! &copy; 2026 Pemula Web.</p>
+
+</body>
+</html>

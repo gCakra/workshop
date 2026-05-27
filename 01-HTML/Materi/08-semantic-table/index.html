@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Semantic Table - HTML Dasar</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        line-height: 1.6;
+        padding: 20px;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+      }
+      th,
+      td {
+        border: 1px solid #ddd;
+        padding: 12px;
+        text-align: left;
+      }
+      thead {
+        background-color: #f4f4f4;
+      }
+      tfoot {
+        font-weight: bold;
+        background-color: #eee;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Materi: Semantic Table (thead, tbody, tfoot)</h1>
+    <p>
+      Semantic table membantu browser dan alat bantu (seperti screen reader)
+      memahami struktur data dalam tabel.
+    </p>
+
+    <hr />
+
+    <h2>Contoh Tabel Penjualan</h2>
+    <table>
+      <!-- Header Tabel -->
+      <thead>
+        <tr>
+          <th>Produk</th>
+          <th>Kategori</th>
+          <th>Harga</th>
+        </tr>
+      </thead>
+
+      <!-- Isi Tabel -->
+      <tbody>
+        <tr>
+          <td>Kopi Espresso</td>
+          <td>Minuman</td>
+          <td>Rp 25.000</td>
+        </tr>
+        <tr>
+          <td>Roti Bakar</td>
+          <td>Makanan</td>
+          <td>Rp 15.000</td>
+        </tr>
+        <tr>
+          <td>Es Jeruk</td>
+          <td>Minuman</td>
+          <td>Rp. 10.000</td>
+        </tr>
+      </tbody>
+
+      <!-- Footer Tabel -->
+      <tfoot>
+        <tr>
+          <td colspan="2">Total Pendapatan</td>
+          <td>Rp 50.000</td>
+        </tr>
+      </tfoot>
+    </table>
+
+    <section>
+      <h3>Penjelasan Tag:</h3>
+      <ul>
+        <li><code>&lt;thead&gt;</code>: Bagian kepala tabel (judul kolom).</li>
+        <li><code>&lt;tbody&gt;</code>: Bagian utama yang berisi data.</li>
+        <li>
+          <code>&lt;tfoot&gt;</code>: Bagian kaki tabel (misal untuk total atau
+          ringkasan).
+        </li>
+      </ul>
+    </section>
+
+    <a href="../07-tabel-dasar/index.html">⬅️ Kembali ke Tabel Dasar</a>
+  </body>
+</html>

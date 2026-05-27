@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Dasar - HTML Dasar</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; padding: 20px; }
+        .form-group { margin-bottom: 15px; }
+        label { display: block; font-weight: bold; }
+        input[type="text"], input[type="email"] { width: 100%; padding: 8px; margin-top: 5px; }
+        button { padding: 10px 20px; background-color: #007bff; color: white; border: none; cursor: pointer; }
+        button:hover { background-color: #0056b3; }
+    </style>
+</head>
+<body>
+    <h1>Materi: Form Dasar & Input Teks</h1>
+    <p>Form digunakan untuk mengumpulkan data dari pengguna.</p>
+
+    <hr>
+
+    <form>
+        <div class="form-group">
+            <label for="nama">Nama Lengkap:</label>
+            <input type="text" id="nama" name="nama" placeholder="Masukkan nama anda...">
+        </div>
+
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="contoh@mail.com">
+        </div>
+
+        <button type="submit">Kirim Data</button>
+    </form>
+
+    <section>
+        <h3>Elemen Penting:</h3>
+        <ul>
+            <li><code>&lt;form&gt;</code>: Pembungkus seluruh isian formulir.</li>
+            <li><code>&lt;label&gt;</code>: Memberi nama pada input agar user tahu apa yang harus diisi.</li>
+            <li><code>&lt;input type="text"&gt;</code>: Kotak isian teks biasa.</li>
+            <li><code>&lt;input type="email"&gt;</code>: Kotak isian khusus format email.</li>
+            <li><code>&lt;button type="submit"&gt;</code>: Tombol untuk mengirim form.</li>
+        </ul>
+    </section>
+
+    <a href="../09-span-tabel/index.html">⬅️ Kembali ke Materi Tabel</a>
+</body>
+</html>
