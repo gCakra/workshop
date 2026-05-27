@@ -28,7 +28,8 @@ Proyek ini berisi kumpulan latihan dasar untuk memahami struktur web (HTML) dan 
     - [x] Tantangan #02: Review Semantic (SELESAI).
     - [x] Tabel Dasar & Semantic Table (SELESAI).
     - [x] Menggabungkan Sel (Colspan & Rowspan - SELESAI).
-    - [ ] HTML Form Dasar (Sedang dipelajari).
+    - [x] HTML Form Dasar (SELESAI).
+    - [ ] Elemen Form Lanjutan (Sedang dipelajari).
 
 2.  **CSS Dasar:**
     - [x] Internal/External CSS.

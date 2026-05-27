@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elemen Form Lanjutan - HTML Dasar</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; background-color: #f4f4f9; }
+        .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px; }
+        h1 { color: #333; }
+        .form-group { margin-bottom: 15px; }
+        label { display: block; font-weight: bold; margin-bottom: 5px; }
+        .inline-group { display: flex; gap: 15px; align-items: center; }
+        .inline-group label { font-weight: normal; margin-bottom: 0; }
+        textarea, select { width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; }
+        button { padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; }
+        button:hover { background-color: #218838; }
+        code { background: #eee; padding: 2px 4px; border-radius: 4px; }
+    </style>
+</head>
+<body>
+    <h1>Materi: Elemen Form Lanjutan</h1>
+    <p>Setelah belajar input teks, sekarang kita akan mempelajari elemen input lainnya yang sering digunakan dalam website.</p>
+
+    <div class="card">
+        <form>
+            <!-- Radio Button -->
+            <div class="form-group">
+                <label>Jenis Kelamin:</label>
+                <div class="inline-group">
+                    <input type="radio" id="pria" name="gender" value="pria">
+                    <label for="pria">Pria</label>
+                    
+                    <input type="radio" id="wanita" name="gender" value="wanita">
+                    <label for="wanita">Wanita</label>
+                </div>
+            </div>
+
+            <!-- Checkbox -->
+            <div class="form-group">
+                <label>Hobi (Bisa pilih lebih dari satu):</label>
+                <div class="inline-group">
+                    <input type="checkbox" id="coding" name="hobi" value="coding">
+                    <label for="coding">Coding</label>
+                    
+                    <input type="checkbox" id="gaming" name="hobi" value="gaming">
+                    <label for="gaming">Gaming</label>
+
+                    <input type="checkbox" id="musik" name="hobi" value="musik">
+                    <label for="musik">Musik</label>
+                </div>
+            </div>
+
+            <!-- Select (Dropdown) -->
+            <div class="form-group">
+                <label for="kota">Kota Asal:</label>
+                <select id="kota" name="kota">
+                    <option value="">-- Pilih Kota --</option>
+                    <option value="jakarta">Jakarta</option>
+                    <option value="bandung">Bandung</option>
+                    <option value="surabaya">Surabaya</option>
+                </select>
+            </div>
+
+            <!-- Textarea -->
+            <div class="form-group">
+                <label for="pesan">Pesan/Alamat:</label>
+                <textarea id="pesan" name="pesan" rows="4" placeholder="Tuliskan sesuatu di sini..."></textarea>
+            </div>
+
+            <button type="submit">Daftar Sekarang</button>
+        </form>
+    </div>
+
+    <section class="card">
+        <h3>Penjelasan Elemen:</h3>
+        <ul>
+            <li><code>&lt;input type="radio"&gt;</code>: Digunakan untuk memilih <strong>satu</strong> dari beberapa pilihan (harus punya <code>name</code> yang sama).</li>
+            <li><code>&lt;input type="checkbox"&gt;</code>: Digunakan untuk memilih <strong>satu atau lebih</strong> pilihan.</li>
+            <li><code>&lt;select&gt;</code> & <code>&lt;option&gt;</code>: Membuat menu pilihan drop-down.</li>
+            <li><code>&lt;textarea&gt;</code>: Kotak input untuk teks yang panjang (multi-line).</li>
+        </ul>
+    </section>
+
+    <div style="margin-top: 20px;">
+        <a href="../10-form-dasar/index.html">⬅️ Kembali ke Form Dasar</a>
+    </div>
+</body>
+</html>

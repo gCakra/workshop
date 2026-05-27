@@ -24,8 +24,8 @@ Gunakan tautan di bawah ini untuk mengakses dokumen penting lainnya:
 
 - **00-Projects/**: Belum ada proyek.
 - **01-HTML/**:
-  - `Materi/`: 01-perkenalan, 02-multi-halaman.
-  - `Challenge/`: (Kosong).
+  - `Materi/`: 01-perkenalan, 02-multi-halaman, ..., 10-form-dasar, 11-elemen-form-lainnya.
+  - `Challenge/`: 01-kartu-nama, 02-review-semantic.
 - **02-CSS/**:
   - `Materi/`: 01-css-dasar, 02-box-model, 03-flexbox, 04-responsive.
   - `Challenge/`: 01-navbar-flexbox (Selesai).
@@ -34,10 +34,10 @@ Gunakan tautan di bawah ini untuk mengakses dokumen penting lainnya:
   - `Challenge/`: (Kosong).
 
 ## 🎯 Status Belajar Terakhir
-- **Topik Aktif**: HTML Bagian 4 (Form Dasar).
+- **Topik Aktif**: HTML Bagian 4 (Form Lanjutan).
 - **Tantangan Sedang Dikerjakan**: Nihil.
 - **Kendala Terakhir**: Nihil.
-- **Sesi Berhenti di**: Selesai materi Tabel (Colspan & Rowspan). Siap lanjut ke HTML Forms.
+- **Sesi Berhenti di**: Selesai materi Form Dasar. Sedang mempelajari Elemen Form Lanjutan.
 
 ## 💡 Catatan Mentor Khusus
 
