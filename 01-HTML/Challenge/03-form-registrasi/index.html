@@ -1,46 +1,120 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Challenge 03: Form Registrasi Member</title>
     <style>
-        /* TIPS: Kamu bisa menambahkan CSS di sini agar form terlihat rapi */
-        body { font-family: sans-serif; padding: 40px; background-color: #e9ecef; }
-        .container { background: white; padding: 30px; border-radius: 10px; max-width: 500px; margin: auto; }
-        h2 { text-align: center; color: #333; }
-        
-        /* Tambahkan style kamu sendiri! */
+      /* TIPS: Kamu bisa menambahkan CSS di sini agar form terlihat rapi */
+      body {
+        font-family: sans-serif;
+        padding: 40px;
+        background-color: #e9ecef;
+      }
+      .container {
+        background: white;
+        padding: 30px;
+        border-radius: 10px;
+        max-width: 500px;
+        margin: auto;
+      }
+      h2 {
+        text-align: center;
+        color: #333;
+      }
+
+      /* Tambahkan style kamu sendiri! */
     </style>
-</head>
-<body>
+  <div class="container">
+      <h2>Pendaftaran Member Baru</h2>
 
-    <div class="container">
-        <h2>Pendaftaran Member Baru</h2>
-        
-        <!-- 
-            TUGAS KAMU:
-            1. Buat elemen <form>.
-            2. Tambahkan input TEXT untuk "Nama Lengkap".
-            3. Tambahkan input EMAIL untuk "Email".
-            4. Tambahkan input RADIO untuk "Pilih Paket" (Gold, Silver, Bronze).
-            5. Tambahkan input CHECKBOX untuk "Setuju Syarat & Ketentuan".
-            6. Tambahkan SELECT untuk "Tahu dari mana?" (Sosmed, Teman, Iklan).
-            7. Tambahkan TEXTAREA untuk "Alasan Bergabung".
-            8. Tambahkan BUTTON SUBMIT.
-            
-            Jangan lupa gunakan <label> untuk setiap input!
-        -->
+      <form action="#" method="POST">
+          <div class="form-group">
+              <label for="nama">Nama Lengkap:</label>
+              <input type="text" id="nama" name="nama" placeholder="Masukkan nama lengkap" required>
+          </div>
 
-        <form>
-            <!-- Tulis code kamu di sini -->
-        </form>
+          <div class="form-group">
+              <label for="email">Email:</label>
+              <input type="email" id="email" name="email" placeholder="contoh@email.com" required>
+          </div>
 
+          <div class="form-group">
+              <label>Pilih Paket:</label>
+              <div class="radio-group">
+                  <input type="radio" id="gold" name="paket" value="gold">
+                  <label for="gold">Gold</label>
+
+                  <input type="radio" id="silver" name="paket" value="silver">
+                  <label for="silver">Silver</label>
+
+                  <input type="radio" id="bronze" name="paket" value="bronze">
+                  <label for="bronze">Bronze</label>
+              </div>
+          </div>
+
+          <div class="form-group">
+              <label for="sumber">Tahu dari mana?</label>
+              <select id="sumber" name="sumber">
+                  <option value="">-- Pilih Sumber --</option>
+                  <option value="sosmed">Sosmed</option>
+                  <option value="teman">Teman</option>
+                  <option value="iklan">Iklan</option>
+              </select>
+          </div>
+
+          <div class="form-group">
+              <label for="alasan">Alasan Bergabung:</label>
+              <textarea id="alasan" name="alasan" rows="4" placeholder="Mengapa Anda ingin bergabung?"></textarea>
+          </div>
+
+          <div class="form-group checkbox-group">
+              <input type="checkbox" id="setuju" name="setuju" required>
+              <label for="setuju">Saya setuju dengan Syarat & Ketentuan</label>
+          </div>
+
+          <button type="submit">Daftar Sekarang</button>
+      </form>
+
+  </div>
+          <label for="nama">Nama Lengkap</label>
+          <input type="text" name="nama" value="" />
+        </div>
+        <div>
+          <label for="email">Email</label>
+          <input type="email" name="email" value="" />
+        </div>
+        <div>
+          <label for="radio">Pilih paket</label>
+          <input type="radio" name="radio" value="Gold" />
+          <label for="radio">Gold</label>
+          <input type="radio" name="radio" value="Silver" />
+          <label for="radio">Silver</label>
+          <input type="radio" name="radio" value="Bronze" />
+          <label for="radio">Bronze</label>
+        </div>
+        <div>
+          <option value="hobi">
+            <select>
+              Game
+            </select>
+            <select>
+              Renang
+            </select>
+            <select>
+              Masak
+            </select>
+          </option>
+        </div>
+        <div></div>
+        <textarea rows="3" cols="3"></textarea>
+      </form>
     </div>
 
-    <p style="text-align: center; margin-top: 20px;">
-        <a href="../../Materi/11-elemen-form-lainnya/index.html">📖 Lihat Materi Form Lanjutan</a>
+    <p style="text-align: center; margin-top: 20px">
+      <a href="../../Materi/11-elemen-form-lainnya/index.html"
+        >📖 Lihat Materi Form Lanjutan</a
+      >
     </p>
-
-</body>
+  </body>
 </html>

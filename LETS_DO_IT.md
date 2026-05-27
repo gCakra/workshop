@@ -4,40 +4,39 @@
 Gunakan tautan di bawah ini untuk mengakses dokumen penting lainnya:
 
 ### 🛠️ Workshop Files
-- [🧭 Peta Jalan Kurikulum](./README.md) - Rencana belajar dan materi.
-- [📋 Catatan Progres Belajar](./PROGRES_LOG.md) - Apa yang sudah selesai.
+- [🧭 Peta Jalan & Progres](./README.md) - Kurikulum lengkap dan ceklis progres.
 - [⚔️ Daftar Tantangan](./CHALLENGES.md) - Tugas yang harus dikerjakan.
 
 ### 🧠 Sistem Gemini (Memori & Persona)
-- [💾 Memori Utama](../.gemini/tmp/workshop/memory/MEMORY.md) - Preferensi dan riwayatmu.
-- [👤 Profil Persona](../.gemini/tmp/workshop/memory/PERSONA.md) - Karakter asistenmu.
+- [💾 Memori Utama](../.gemini/tmp/home/memory/MEMORY.md) - Preferensi dan riwayatmu.
 
 ---
 
 ## 📋 Ringkasan Dokumentasi
 
-1. **README.md**: Panduan kurikulum (Materi vs Challenge).
+1. **README.md**: Satu-satunya sumber kebenaran (Source of Truth) untuk Kurikulum, Materi, dan Progres Belajar.
 2. **CHALLENGES.md**: Daftar tantangan per level.
-3. **PROGRES_LOG.md**: Detail materi yang sudah dikuasai.
+3. **LETS_DO_IT.md**: File navigasi dan status untuk Mentor (Kak Dev).
 
 ## 🏗️ Inventory Workshop (Struktur Final)
 
 - **00-Projects/**: Belum ada proyek.
 - **01-HTML/**:
-  - `Materi/`: 01-perkenalan, 02-multi-halaman, ..., 10-form-dasar, 11-elemen-form-lainnya.
-  - `Challenge/`: 01-kartu-nama, 02-review-semantic.
+  - `Materi/`: 01-perkenalan ... 11-elemen-form-lainnya.
+  - `Challenge/`: 01-kartu-nama, 02-review-semantic, 03-form-registrasi.
 - **02-CSS/**:
-  - `Materi/`: 01-css-dasar, 02-box-model, 03-flexbox, 04-responsive.
-  - `Challenge/`: 01-navbar-flexbox (Selesai).
+  - `Materi/`: (Akan diisi per modul).
+  - `Challenge/`: (Akan diisi per modul).
 - **03-JS/**:
   - `Materi/`: 01-dasar.
   - `Challenge/`: (Kosong).
 
 ## 🎯 Status Belajar Terakhir
-- **Topik Aktif**: HTML Bagian 4 (Form Lanjutan).
-- **Tantangan Sedang Dikerjakan**: Nihil.
+- **Topik Aktif**: CSS Modul 2 - Topik 6 (Element, ID, Class).
+- **Tantangan Sedang Dikerjakan**: Menentukan penggunaan Class vs ID pada 3 tombol (Menunggu jawaban).
 - **Kendala Terakhir**: Nihil.
-- **Sesi Berhenti di**: Selesai materi Form Dasar. Sedang mempelajari Elemen Form Lanjutan.
+- **Sesi Berhenti di**: Selesai Modul 1, baru masuk pembukaan Modul 2.
+
 
 ## 💡 Catatan Mentor Khusus
 
