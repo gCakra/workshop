@@ -25,17 +25,17 @@ Gunakan tautan di bawah ini untuk mengakses dokumen penting lainnya:
   - `Materi/`: 01-perkenalan ... 11-elemen-form-lainnya.
   - `Challenge/`: 01-kartu-nama, 02-review-semantic, 03-form-registrasi.
 - **02-CSS/**:
-  - `Materi/`: (Akan diisi per modul).
-  - `Challenge/`: (Akan diisi per modul).
+  - `Materi/`: 01-dasar-css, 02-selector-css, 03-descendant-selector, 04-adjacent-attribute-selector.
+  - `Challenge/`: (Kosong).
 - **03-JS/**:
   - `Materi/`: 01-dasar.
   - `Challenge/`: (Kosong).
 
 ## 🎯 Status Belajar Terakhir
-- **Topik Aktif**: CSS Modul 2 - Topik 6 (Element, ID, Class).
-- **Tantangan Sedang Dikerjakan**: Menentukan penggunaan Class vs ID pada 3 tombol (Menunggu jawaban).
-- **Kendala Terakhir**: Nihil.
-- **Sesi Berhenti di**: Selesai Modul 1, baru masuk pembukaan Modul 2.
+- **Topik Aktif**: CSS Modul 2 - Topik 9 (Pseudo-Class).
+- **Tantangan Sedang Dikerjakan**: (Menunggu tantangan baru).
+- **Kendala Terakhir**: Sempat bingung di descendant vs child, tapi sudah paham lewat perumpamaan.
+- **Sesi Berhenti di**: Selesai Topik 8, lanjut ke Topik 9.
 
 
 ## 💡 Catatan Mentor Khusus

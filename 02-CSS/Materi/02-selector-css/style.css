@@ -1,0 +1,32 @@
+/* workshop/02-CSS/Materi/02-selector-css/style.css */
+
+/* 1. Element Selector (Contoh: Menghias semua button) */
+button {
+  cursor: pointer;
+  font-family: sans-serif;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+}
+
+/* 2. ID Selector (Gunakan # untuk elemen unik) */
+/* Tulis di bawah ini */
+#checkout-btn {
+  background-color: blue;
+  color: #fff;
+}
+
+/* 3. Class Selector (Gunakan . untuk elemen yang bisa banyak) */
+/* Tulis di bawah ini */
+.btn-action {
+  margin: 10px;
+  padding: 5px;
+}
+
+.btn-cancel {
+  background-color: red;
+}
+
+.btn-save {
+  background-color: green;
+}

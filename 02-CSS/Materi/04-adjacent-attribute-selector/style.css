@@ -1,0 +1,20 @@
+/* workshop/02-CSS/Materi/04-adjacent-attribute-selector/style.css */
+
+/* 1. Adjacent Sibling Selector (+) */
+/* Targetkan <p> yang berada tepat setelah <h2> */
+
+
+/* 2. Attribute Selector ([attribute="value"]) */
+/* Targetkan <input> yang punya type="password" */
+
+
+/* Dekorasi dasar */
+.container {
+    padding: 20px;
+}
+
+input {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modul 2: Descendant vs Direct Child</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Struktur Keluarga HTML</h1>
+
+    <div class="kakek">
+        <p>Saya adalah anak kakek (Direct Child).</p>
+        
+        <div class="ayah">
+            <p>Saya adalah cucu kakek, tapi anak ayah.</p>
+            <span>Saya adalah cucu kakek juga!</span>
+        </div>
+    </div>
+
+    <hr>
+    
+    <div class="tugas">
+        <h3>Tantangan Baru:</h3>
+        <ol>
+            <li>Berikan warna <strong>merah</strong> untuk SEMUA <code>p</code> yang ada di dalam <code>.kakek</code> (Descendant).</li>
+            <li>Berikan border <strong>hitam</strong> HANYA untuk <code>p</code> yang merupakan anak langsung dari <code>.kakek</code> (Direct Child <code>></code>).</li>
+        </ol>
+    </div>
+</body>
+</html>

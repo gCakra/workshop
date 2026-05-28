@@ -1,0 +1,26 @@
+/* workshop/02-CSS/Materi/03-descendant-selector/style.css */
+
+/* 1. Descendant Selector (Spasi) */
+/* Targetkan SEMUA <p> di dalam .kakek */
+.kakek p {
+  color: red;
+}
+
+.kakek > p {
+  border: 1px solid #000;
+}
+
+/* 2. Direct Child Selector (>) */
+/* Targetkan HANYA <p> yang merupakan anak langsung dari .kakek */
+
+/* Dekorasi tambahan agar terlihat jelas */
+.kakek {
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.ayah {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #e0e0e0;
+}
