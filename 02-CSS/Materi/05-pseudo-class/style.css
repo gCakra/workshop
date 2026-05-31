@@ -1,0 +1,87 @@
+/* workshop/02-CSS/Materi/05-pseudo-class/style.css */
+
+/* --- TUGAS --- */
+
+/* 1. :hover - Saat kursor berada di atas element (.btn) */
+
+/* 2. :active - Saat element sedang diklik (.btn) */
+
+/* 3. :focus - Saat element input sedang aktif/fokus */
+
+/* 4. :nth-child - Seleksi element berdasarkan urutan (li:nth-child(even)) */
+
+/* --- Dekorasi Dasar (Boleh dipelajari, tapi fokus ke tugas di atas ya!) --- */
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 40px;
+  line-height: 1.6;
+  color: #333;
+}
+
+.section {
+  margin-bottom: 30px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #3498db;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition:
+    background-color 0.3s,
+    transform 0.1s;
+}
+
+.btn:hover {
+  background-color: #2ecc71;
+}
+
+.btn:active {
+  background-color: #e74c3c;
+}
+
+input {
+  padding: 12px;
+  width: 100%;
+  max-width: 300px;
+  border: 2px solid #ddd;
+  border-radius: 6px;
+  font-size: 16px;
+  transition: border-color 0.3s;
+}
+
+input:focus{
+  border: 3px solid orange;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  max-width: 300px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+li {
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+li:last-child {
+  border-bottom: none;
+}
+
+.tugas {
+  background-color: #fff9c4;
+  padding: 20px;
+  border-left: 5px solid #fbc02d;
+  margin-top: 40px;
+}
+
+li:nth-child(even){
+  background-color: #f2f2f2;
+}

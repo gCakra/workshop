@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modul 2: Pseudo-Class Selector</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Latihan Pseudo-Class</h1>
+
+    <div class="section">
+        <h3>1. Link & Interaction States</h3>
+        <a href="https://www.google.com" target="_blank" class="btn">Klik Saya!</a>
+        <br><br>
+        <input type="text" placeholder="Klik/Fokus di sini...">
+    </div>
+
+    <hr>
+
+    <div class="section">
+        <h3>2. Structural Pseudo-Class (Nth-Child)</h3>
+        <ul class="daftar-belanja">
+            <li>Apel</li>
+            <li>Mangga</li>
+            <li>Jeruk</li>
+            <li>Pisang</li>
+            <li>Anggur</li>
+        </ul>
+    </div>
+
+    <hr>
+    
+    <div class="tugas">
+        <h3>Instruksi Belajar:</h3>
+        <ol>
+            <li><strong>:hover:</strong> Ubah background <code>.btn</code> menjadi <strong>#2ecc71</strong> (hijau) saat kursor di atasnya.</li>
+            <li><strong>:active:</strong> Ubah background <code>.btn</code> menjadi <strong>#e74c3c</strong> (merah) saat diklik.</li>
+            <li><strong>:focus:</strong> Berikan outline 3px solid <strong>orange</strong> pada <code>input</code> saat sedang fokus.</li>
+            <li><strong>:nth-child():</strong> Berikan warna background <strong>#f2f2f2</strong> untuk item list yang <strong>genap</strong> (even).</li>
+        </ol>
+    </div>
+</body>
+</html>

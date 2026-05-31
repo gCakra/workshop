@@ -26,8 +26,8 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 ### **MODUL 2 — Selector CSS**
 - [x] **6. CSS Selector — Element, ID, dan Class** (SELESAI ✅)
 - [x] **7. Descendant & Direct Child Selector** (SELESAI ✅)
-- [x] **8. Adjacent & Attribute Selector** (SELESAI ✅)
-- [ ] **9. Pseudo-Class (:hover, :focus, dll)** (Sedang dipelajari 📖)
+- [ ] **8. Adjacent & Attribute Selector** (Sedang diselesaikan 📖)
+- [ ] 9. Pseudo-Class (:hover, :focus, dll)
 - [ ] 10. Pseudo-Element (::before, ::after)
 
 ### **MODUL 3 — Box Model CSS**

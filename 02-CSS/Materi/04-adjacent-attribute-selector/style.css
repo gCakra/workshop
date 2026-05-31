@@ -2,19 +2,23 @@
 
 /* 1. Adjacent Sibling Selector (+) */
 /* Targetkan <p> yang berada tepat setelah <h2> */
-
+h2 + p {
+  color: orange;
+}
 
 /* 2. Attribute Selector ([attribute="value"]) */
 /* Targetkan <input> yang punya type="password" */
-
+input[type="password"] {
+  border: solid 5px blue;
+}
 
 /* Dekorasi dasar */
 .container {
-    padding: 20px;
+  padding: 20px;
 }
 
 input {
-    display: block;
-    margin: 10px 0;
-    padding: 8px;
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
 }
