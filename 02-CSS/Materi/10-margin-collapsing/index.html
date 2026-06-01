@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modul 3: Margin & Margin Collapsing</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Modul 3: Margin & Margin Collapsing</h1>
+    <p>Margin digunakan untuk memberi jarak <strong>di luar</strong> elemen. Namun, ada fenomena unik bernama <em>Margin Collapsing</em>.</p>
+
+    <div class="section">
+        <h3>1. Margin Shorthand</h3>
+        <div class="box box-auto">Margin: auto (Tengah)</div>
+    </div>
+
+    <div class="section">
+        <h3>2. Margin Collapsing</h3>
+        <p>Perhatikan dua kotak di bawah ini. Kotak Atas punya <code>margin-bottom: 50px</code> dan Kotak Bawah punya <code>margin-top: 30px</code>. Harusnya jaraknya 80px, tapi di CSS jaraknya hanya diambil yang terbesar (50px).</p>
+        <div class="collapse-container">
+            <div class="box box-top">Kotak Atas (MB: 50px)</div>
+            <div class="box box-bottom">Kotak Bawah (MT: 30px)</div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="tugas">
+        <h3>🛠️ Tugas Margin:</h3>
+        <ol>
+            <li><strong>Tengahkan:</strong> Gunakan <code>margin: 20px auto;</code> pada <code>.box-auto</code> (pastikan ada width-nya!).</li>
+            <li><strong>Shorthand:</strong> Berikan <code>.box-top</code> margin-bottom sebesar <code>50px</code>.</li>
+            <li><strong>Shorthand:</strong> Berikan <code>.box-bottom</code> margin-top sebesar <code>30px</code>.</li>
+            <li><strong>Eksperimen:</strong> Ubah margin-top Kotak Bawah menjadi <code>60px</code>. Apa yang terjadi dengan jaraknya?</li>
+        </ol>
+    </div>
+
+    <div class="info">
+        <p>💡 <strong>Info:</strong> Margin Collapsing hanya terjadi pada margin <strong>vertikal</strong> (atas-bawah) dan pada elemen yang bersentuhan langsung.</p>
+    </div>
+</body>
+</html>

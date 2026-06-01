@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modul 3: Properti Display</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Modul 3: Properti Display</h1>
+    <p>Properti <code>display</code> menentukan bagaimana sebuah elemen ditampilkan di layar dan bagaimana ia berinteraksi dengan elemen di sekitarnya.</p>
+
+    <div class="section">
+        <h3>1. Display: Block</h3>
+        <p>Elemen block selalu mulai di baris baru dan mengambil lebar penuh.</p>
+        <div class="box-block">Kotak 1 (Block)</div>
+        <div class="box-block">Kotak 2 (Block)</div>
+    </div>
+
+    <div class="section">
+        <h3>2. Display: Inline</h3>
+        <p>Elemen inline tidak mulai di baris baru dan lebarnya hanya selebar kontennya. Margin/Padding vertikal tidak berpengaruh sempurna.</p>
+        <span class="box-inline">Inline A</span>
+        <span class="box-inline">Inline B</span>
+    </div>
+
+    <div class="section">
+        <h3>3. Display: Inline-Block</h3>
+        <p>Gabungan keduanya: Tetap sejajar (inline) tapi bisa diatur Width, Height, Margin, dan Padding-nya (block).</p>
+        <div class="box-inline-block">IB 1</div>
+        <div class="box-inline-block">IB 2</div>
+    </div>
+
+    <hr>
+
+    <div class="tugas">
+        <h3>🛠️ Tugas Eksperimen:</h3>
+        <ol>
+            <li><strong>Block:</strong> Pada <code>.box-block</code>, atur lebar menjadi <code>200px</code>. Lihat apakah mereka tetap bertumpuk?</li>
+            <li><strong>Inline:</strong> Pada <code>.box-inline</code>, coba berikan <code>width: 100px; height: 100px;</code>. Apakah berubah ukurannya? (Spoiler: Tidak akan).</li>
+            <li><strong>Inline-Block:</strong> Ubah <code>.box-inline-block</code> agar punya <code>width: 100px</code> dan <code>height: 50px</code>. Lihat perbedaannya dengan elemen inline biasa.</li>
+            <li><strong>Magic:</strong> Ubah <code>.box-block</code> menjadi <code>display: inline-block;</code>. Apa yang terjadi?</li>
+        </ol>
+    </div>
+</body>
+</html>

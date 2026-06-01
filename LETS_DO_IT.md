@@ -20,9 +20,9 @@
   - `Materi/`: 01-dasar.
 
 ## 🎯 Status Belajar Terakhir
-- **Topik Aktif**: CSS Modul 2 - Layouting (Flexbox).
-- **Tantangan Sedang Dikerjakan**: Persiapan Materi 07 (Flexbox Dasar).
-- **Sesi Berhenti di**: Selesai menguasai seluruh Selector CSS (01-06). Siap masuk ke Flexbox.
+- **Topik Aktif**: CSS Modul 4 - Flexbox & Responsive.
+- **Tantangan Sedang Dikerjakan**: Persiapan Materi 12 (Konsep Flexbox).
+- **Sesi Berhenti di**: Selesai menguasai Box Model dan Display. Siap masuk ke teknik layouting modern (Flexbox).
 
 ---
 

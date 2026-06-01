@@ -1,0 +1,51 @@
+/* workshop/02-CSS/Materi/11-properti-display/style.css */
+
+/* 1. Display Block (Default <div>) */
+.box-block {
+  background-color: #3498db;
+  color: white;
+  padding: 10px;
+  margin: 5px 0;
+  /* Tugas 1 & 4 kerjakan di sini */
+  width: 200px;
+  display: inline-block;
+}
+
+/* 2. Display Inline (Default <span>) */
+.box-inline {
+  background-color: #2ecc71;
+  color: white;
+  padding: 10px;
+  /* Tugas 2: Coba beri width & height di sini */
+  width: 100px;
+  height: 100px;
+}
+
+/* 3. Display Inline-Block */
+.box-inline-block {
+  background-color: #e74c3c;
+  color: white;
+  padding: 10px;
+  display: inline-block;
+  /* Tugas 3: Beri width & height di sini */
+  width: 100px;
+  height: 50px;
+}
+
+/* --- Dekorasi --- */
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.section {
+  margin-bottom: 30px;
+  padding: 10px;
+  border: 1px solid #eee;
+}
+
+.tugas {
+  background-color: #e3f2fd;
+  padding: 20px;
+  border-left: 5px solid #2196f3;
+}

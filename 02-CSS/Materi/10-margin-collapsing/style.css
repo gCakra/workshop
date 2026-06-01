@@ -1,0 +1,50 @@
+/* workshop/02-CSS/Materi/10-margin-collapsing/style.css */
+
+.box {
+  background-color: #e67e22;
+  color: white;
+  padding: 20px;
+  border: 2px solid #d35400;
+}
+
+/* 1. Mengetengahkan Element */
+.box-auto {
+  width: 300px;
+  /* Tugas: Berikan margin auto di sini */
+  margin: 0 auto;
+}
+
+/* 2. Eksperimen Margin Collapsing */
+.box-top {
+  /* Tugas: Berikan margin-bottom: 50px */
+  margin-bottom: 50px;
+}
+
+.box-bottom {
+  /* Tugas: Berikan margin-top: 30px */
+  margin-top: 60px;
+}
+
+/* --- Dekorasi --- */
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.section {
+  margin-bottom: 40px;
+  background: #f9f9f9;
+  padding: 10px;
+}
+
+.collapse-container {
+  background-color: #eee;
+  border: 1px solid #ccc;
+  padding: 0; /* Pastikan padding 0 untuk melihat collapsing */
+}
+
+.tugas {
+  background-color: #fff3e0;
+  padding: 20px;
+  border-left: 5px solid #ff9800;
+}

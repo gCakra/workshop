@@ -1,0 +1,37 @@
+/* workshop/02-CSS/Materi/12-konsep-flexbox/style.css */
+
+/* 1. FLEX CONTAINER */
+.container {
+    background-color: #f1f1f1;
+    padding: 20px;
+    border: 2px dashed #ccc;
+    
+    /* Tugas: Aktifkan flex di sini */
+    
+}
+
+/* FLEX ITEMS */
+.item {
+    background-color: #9b59b6;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.item-1 { background-color: #8e44ad; }
+.item-2 { background-color: #9b59b6; }
+.item-3 { background-color: #af7ac5; }
+
+
+/* --- Dekorasi --- */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    padding: 20px;
+}
+
+.tugas {
+    background-color: #f3e5f5;
+    padding: 20px;
+    border-left: 5px solid #9c27b0;
+}

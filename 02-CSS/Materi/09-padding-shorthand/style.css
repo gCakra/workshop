@@ -1,0 +1,36 @@
+/* workshop/02-CSS/Materi/09-padding-shorthand/style.css */
+
+.box {
+  background-color: #3498db;
+  color: white;
+  margin: 20px;
+  display: inline-block;
+  border: 2px solid #2980b9;
+}
+
+/* 1. Satu Nilai (Semua sisi) */
+.box-1 {
+  padding: 30px;
+}
+
+/* 2. Dua Nilai (Atas-Bawah Kiri-Kanan) */
+.box-2 {
+  padding: 10px 50px;
+}
+
+/* 3. Empat Nilai (Atas Kanan Bawah Kiri) */
+.box-3 {
+  padding: 0 50px 20px 10px;
+}
+
+/* --- Dekorasi --- */
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.tugas {
+  background-color: #f1f8e9;
+  padding: 20px;
+  border-left: 5px solid #8bc34a;
+}

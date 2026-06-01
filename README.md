@@ -26,19 +26,19 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 ### **MODUL 2 — Selector CSS**
 - [x] **6. CSS Selector — Element, ID, dan Class** (SELESAI ✅)
 - [x] **7. Descendant & Direct Child Selector** (SELESAI ✅)
-- [ ] **8. Adjacent & Attribute Selector** (Sedang diselesaikan 📖)
-- [ ] 9. Pseudo-Class (:hover, :focus, dll)
-- [ ] 10. Pseudo-Element (::before, ::after)
+- [x] **8. Adjacent & Attribute Selector** (SELESAI ✅)
+- [x] 9. Pseudo-Class (:hover, :focus, dll) (SELESAI ✅)
+- [x] 10. Pseudo-Element (::before, ::after) (SELESAI ✅)
 
 ### **MODUL 3 — Box Model CSS**
-- [ ] 11. Content, Padding, Border, Margin
-- [ ] 12. Properti Border
-- [ ] 13. Padding Shorthand
-- [ ] 14. Margin & Margin Collapsing
-- [ ] 15. Properti Display
+- [x] 11. Content, Padding, Border, Margin (SELESAI ✅)
+- [x] 12. Properti Border (SELESAI ✅)
+- [x] 13. Padding Shorthand (SELESAI ✅)
+- [x] 14. Margin & Margin Collapsing (SELESAI ✅)
+- [x] 15. Properti Display (SELESAI ✅)
 
 ### **MODUL 4 — Flexbox & Responsive**
-- [ ] 16. Konsep Flexbox
+- [ ] 16. Konsep Flexbox (Sedang berjalan 📖)
 - [ ] 17. Flex Direction
 - [ ] 18. Justify Content
 - [ ] 19. Align Items
