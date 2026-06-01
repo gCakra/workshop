@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Materi 15: Align Items</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Materi 15: Align Items</h1>
+    <p>Properti <code>align-items</code> digunakan untuk mengatur perataan item di sepanjang <strong>Cross Axis</strong> (sumbu silang/vertikal jika direction-nya row).</p>
+
+    <div class="container">
+        <div class="item item-1">Item 1 (Pendek)</div>
+        <div class="item item-2">Item 2<br>Tinggi<br>Banget</div>
+        <div class="item item-3">Item 3</div>
+    </div>
+
+    <hr>
+
+    <div class="tugas">
+        <h3>🛠️ Tugas Eksperimen Perataan Vertikal:</h3>
+        <ol>
+            <li>Buka <code>style.css</code>.</li>
+            <li>Coba ganti <code>align-items: stretch;</code> menjadi <code>center</code>. Amati apa yang terjadi pada item yang tingginya berbeda.</li>
+            <li>Coba gunakan <code>flex-start</code> dan <code>flex-end</code>.</li>
+        </ol>
+    </div>
+
+    <div class="info">
+        <p>💡 <strong>Nilai Populer:</strong><br>
+        1. <code>stretch</code> (default): Item ditarik memenuhi tinggi container.<br>
+        2. <code>flex-start</code>: Rata atas.<br>
+        3. <code>flex-end</code>: Rata bawah.<br>
+        4. <code>center</code>: Rata tengah secara vertikal.<br>
+        5. <code>baseline</code>: Rata berdasarkan garis bawah teks.</p>
+    </div>
+</body>
+</html>

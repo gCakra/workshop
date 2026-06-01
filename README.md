@@ -38,10 +38,10 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 - [x] 15. Properti Display (SELESAI ✅)
 
 ### **MODUL 4 — Flexbox & Responsive**
-- [ ] 16. Konsep Flexbox (Sedang berjalan 📖)
-- [ ] 17. Flex Direction
-- [ ] 18. Justify Content
-- [ ] 19. Align Items
+- [x] 16. Konsep Flexbox (SELESAI ✅)
+- [x] 17. Flex Direction (SELESAI ✅)
+- [x] 18. Justify Content (SELESAI ✅)
+- [ ] 19. Align Items (Sedang berjalan 📖)
 - [ ] 20. Align Content & Self
 - [ ] 21. Grow, Shrink, Basis
 - [ ] 22. Shorthand Flex

@@ -1,0 +1,42 @@
+/* workshop/02-CSS/Materi/13-flex-direction/style.css */
+
+.container {
+  background-color: #f1f1f1;
+  padding: 20px;
+  border: 2px dashed #ccc;
+  display: flex;
+  gap: 15px;
+
+  /* TUGAS: Ubah arah flex di sini */
+  flex-direction: column-reverse;
+}
+
+.item {
+  background-color: #3498db;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-weight: bold;
+  min-width: 100px;
+}
+
+.item-1 {
+  background-color: #2980b9;
+}
+.item-2 {
+  background-color: #3498db;
+}
+.item-3 {
+  background-color: #5dade2;
+}
+
+body {
+  font-family: "Segoe UI", sans-serif;
+  padding: 20px;
+}
+
+.tugas {
+  background-color: #e3f2fd;
+  padding: 20px;
+  border-left: 5px solid #2196f3;
+}
