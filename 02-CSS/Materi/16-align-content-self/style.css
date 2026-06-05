@@ -1,0 +1,51 @@
+/* workshop/02-CSS/Materi/16-align-content-self/style.css */
+
+body {
+  font-family: "Segoe UI", sans-serif;
+  padding: 20px;
+}
+
+.container {
+  background-color: #f1f1f1;
+  border: 2px dashed #ccc;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+/* Bagian 1: Align Content */
+.container-content {
+  height: 300px;
+  flex-wrap: wrap; /* Wajib untuk align-content */
+
+  /* EKSPERIMEN DI SINI */
+  align-content: flex-end;
+}
+
+/* Bagian 2: Align Self */
+.container-self {
+  height: 150px;
+  align-items: center; /* Container menyuruh semua di atas */
+}
+
+.item {
+  background-color: #3498db;
+  color: white;
+  padding: 20px;
+  margin: 5px;
+  min-width: 80px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.item-special {
+  background-color: #e74c3c;
+
+  /* EKSPERIMEN DI SINI */
+  align-self: flex-end; /* Item ini memilih di bawah sendiri */
+}
+
+.tugas {
+  background-color: #fff3e0;
+  padding: 20px;
+  border-left: 5px solid #ff9800;
+}

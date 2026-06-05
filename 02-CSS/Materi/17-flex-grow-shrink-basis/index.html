@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Materi 17: Flex Grow, Shrink, Basis</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Materi 17: Flex Grow, Shrink, & Basis</h1>
+    
+    <div class="container">
+        <div class="item item-1">Item 1 (Grow: 1)</div>
+        <div class="item item-2">Item 2 (Grow: 2)</div>
+        <div class="item item-3">Item 3 (Grow: 1)</div>
+    </div>
+
+    <div class="tugas">
+        <h3>🛠️ Tugas Eksperimen:</h3>
+        <ol>
+            <li>Buka <code>style.css</code>.</li>
+            <li>Perhatikan bagaimana <strong>Item 2</strong> lebih lebar dari yang lain karena <code>flex-grow: 2</code>.</li>
+            <li>Coba ubah semua <code>flex-grow</code> menjadi <code>1</code>. Apa yang terjadi?</li>
+            <li>Coba tambahkan <code>flex-basis: 200px;</code> pada salah satu item.</li>
+        </ol>
+    </div>
+
+    <div class="info">
+        <p>💡 <strong>Rumus Cepat:</strong><br>
+        - <code>flex-grow: 0</code> (default) -> Item tidak mau melebar.<br>
+        - <code>flex-grow: 1</code> -> Item akan mengambil sisa ruang yang ada.<br>
+        - Jika satu item punya grow 2 dan lainnya 1, maka yang grow 2 akan mengambil jatah ruang kosong 2x lebih banyak.</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Materi 16: Align Content & Self</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Materi 16: Align Content & Align Self</h1>
+    
+    <section>
+        <h2>1. Align Content</h2>
+        <p>Hanya berfungsi jika <code>flex-wrap: wrap</code> digunakan dan ada lebih dari satu baris item.</p>
+        <div class="container container-content">
+            <div class="item">1</div>
+            <div class="item">2</div>
+            <div class="item">3</div>
+            <div class="item">4</div>
+            <div class="item">5</div>
+        </div>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>2. Align Self</h2>
+        <p>Mengatur perataan vertikal untuk <strong>satu item spesifik</strong>, mengabaikan aturan container.</p>
+        <div class="container container-self">
+            <div class="item">Default</div>
+            <div class="item item-special">Saya Berbeda (Self)</div>
+            <div class="item">Default</div>
+        </div>
+    </section>
+
+    <div class="tugas">
+        <h3>🛠️ Tugas Eksperimen:</h3>
+        <ol>
+            <li>Buka <code>style.css</code>.</li>
+            <li>Pada <code>.container-content</code>, coba ganti <code>align-content: center;</code> menjadi <code>space-between</code> atau <code>flex-end</code>.</li>
+            <li>Pada <code>.item-special</code>, coba ganti <code>align-self: flex-end;</code> menjadi <code>center</code> atau <code>stretch</code>.</li>
+        </ol>
+    </div>
+</body>
+</html>

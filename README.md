@@ -41,11 +41,12 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 - [x] 16. Konsep Flexbox (SELESAI ✅)
 - [x] 17. Flex Direction (SELESAI ✅)
 - [x] 18. Justify Content (SELESAI ✅)
-- [ ] 19. Align Items (Sedang berjalan 📖)
-- [ ] 20. Align Content & Self
-- [ ] 21. Grow, Shrink, Basis
-- [ ] 22. Shorthand Flex
-- [ ] 23. Responsive & Breakpoint
+- [x] 19. Align Items (SELESAI ✅)
+- [x] 20. Align Content & Self (SELESAI ✅)
+- [x] 21. Grow, Shrink, Basis (SELESAI ✅)
+- [ ] 22. Tantangan: Navbar & Card Layout (SEDANG DIKERJAKAN 🛠️)
+- [ ] 23. Shorthand Flex
+- [ ] 24. Responsive & Breakpoint
 - [ ] 24. Media Query
 - [ ] 25. Navbar Responsive
 

@@ -1,0 +1,44 @@
+/* workshop/02-CSS/Materi/17-flex-grow-shrink-basis/style.css */
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    padding: 20px;
+}
+
+.container {
+    background-color: #f1f1f1;
+    border: 3px solid #333;
+    display: flex;
+    padding: 10px;
+    height: 100px;
+}
+
+.item {
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid white;
+}
+
+.item-1 {
+    background-color: #e67e22;
+    flex-grow: 1;
+}
+
+.item-2 {
+    background-color: #e74c3c;
+    flex-grow: 2; /* Mengambil ruang 2x lebih banyak dari teman-temannya */
+}
+
+.item-3 {
+    background-color: #9b59b6;
+    flex-grow: 1;
+}
+
+.tugas {
+    margin-top: 20px;
+    background-color: #e1f5fe;
+    padding: 15px;
+    border-left: 5px solid #03a9f4;
+}
