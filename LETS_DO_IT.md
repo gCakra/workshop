@@ -13,18 +13,18 @@
 - **01-HTML/**:
   - `Materi/`: 01-perkenalan ... 11-elemen-form-lainnya.
 - **02-CSS/**:
-  - `Materi/`: 01-dasar-css ... 17-flex-grow-shrink-basis.
+  - `Materi/`: 01-dasar-css ... 20-responsive-dasar.
 - **03-JS/**:
   - `Materi/`: 01-dasar.
 
 ## 🎯 Status Belajar Terakhir
-- **Topik Aktif**: CSS Modul 4 - Flexbox & Responsive.
-- **Tantangan Terakhir**: [04-Navbar-Flexbox](./00-Projects/04-navbar-flexbox) (Selesai ✅).
-- **Sesi Berhenti di**: Baru saja menyelesaikan tantangan real-world pertama dengan Flexbox. Siap lanjut ke materi **23. Shorthand Flex**.
+- **Topik Aktif**: JavaScript Dasar (Modul 5).
+- **Tantangan Terakhir**: [20-Responsive-Dasar](./02-CSS/Materi/20-responsive-dasar) (Selesai ✅).
+- **Sesi Berhenti di**: **MODUL 1 SELESAI!** 🏆 Berhasil menguasai konsep dasar (Console, Numbers, Variabel, Boolean). Siap masuk ke **MODUL 2 — Tipe Data String dan Lainnya** (Materi 30).
 
 ---
 
 ## 💡 Catatan Mentor Khusus
-- Tantangan/Challenge digabungkan ke folder `00-Projects` agar lebih efisien.
-- Penomoran folder harus berurutan.
-- Sediakan lembar kerja (worksheet) untuk setiap materi baru.
+- **Standar Baru**: Setiap materi baru wajib ada worksheet lengkap (index.html & style.css) dengan instruksi tugas dan info mentor yang jelas (Style Materi 17+).
+- **Pengecekan Ketat**: Mentor harus validasi pengerjaan sebelum lanjut (Aturan baru di GEMINI.md).
+- **Roadmap JS**: Akan mengikuti screenshot kurikulum Codepolitan yang dikirim Garda.

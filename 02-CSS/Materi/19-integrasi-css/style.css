@@ -9,11 +9,13 @@
 body {
   font-family: "Segoe UI", sans-serif;
   background-color: #f0f2f5;
-  height: 100vh;
+  height: 100vhs;
   /* 1. TUGAS: Gunakan Flexbox untuk menengahkan .card */
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap: 20px;
 }
 
 .card {
@@ -24,6 +26,7 @@ body {
   /* 2. TUGAS: Berikan border-radius dan box-shadow */
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
 }
 
 .profile-img {
@@ -48,6 +51,8 @@ p {
   /* 3. TUGAS: Gunakan Flexbox agar link berjejer */
   display: flex;
   flex-flow: row wrap;
+  justify-content: center;
+  gap: 10px;
 }
 
 .social-links a {
