@@ -1,0 +1,87 @@
+/* workshop/02-CSS/Materi/19-integrasi-css/style.css */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f0f2f5;
+  height: 100vh;
+  /* 1. TUGAS: Gunakan Flexbox untuk menengahkan .card */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background: white;
+  width: 320px;
+  padding: 30px;
+  text-align: center;
+  /* 2. TUGAS: Berikan border-radius dan box-shadow */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-img {
+  width: 100px;
+  height: 100px;
+  background-color: #ddd;
+  border-radius: 50%;
+  margin: 0 auto 20px;
+}
+
+h2 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+p {
+  color: #777;
+  margin-bottom: 25px;
+}
+
+.social-links {
+  /* 3. TUGAS: Gunakan Flexbox agar link berjejer */
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.social-links a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+  padding: 8px 12px;
+  border: 1px solid #007bff;
+  border-radius: 5px;
+  transition: 0.3s;
+  margin: 0 5px;
+}
+
+/* 4. TUGAS: Tambahkan efek :hover */
+.social-links a:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+/* Styling Instruksi (Standar Materi 17+) */
+.tugas {
+  max-width: 600px;
+  margin: 40px auto 0;
+  background-color: #e1f5fe;
+  padding: 15px;
+  border-left: 5px solid #03a9f4;
+  text-align: left;
+}
+
+.info {
+  max-width: 600px;
+  margin: 20px auto 0;
+  background-color: #fff9c4;
+  padding: 15px;
+  border-left: 5px solid #fbc02d;
+  text-align: left;
+}

@@ -44,7 +44,7 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 - [x] 19. Align Items (SELESAI ✅)
 - [x] 20. Align Content & Self (SELESAI ✅)
 - [x] 21. Grow, Shrink, Basis (SELESAI ✅)
-- [ ] 22. Tantangan: Navbar & Card Layout (SEDANG DIKERJAKAN 🛠️)
+- [x] 22. Tantangan: Navbar & Card Layout (SELESAI ✅)
 - [ ] 23. Shorthand Flex
 - [ ] 24. Responsive & Breakpoint
 - [ ] 24. Media Query
