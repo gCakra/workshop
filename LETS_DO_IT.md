@@ -20,7 +20,7 @@
 ## 🎯 Status Belajar Terakhir
 - **Topik Aktif**: JavaScript Dasar (Modul 5).
 - **Tantangan Terakhir**: [20-Responsive-Dasar](./02-CSS/Materi/20-responsive-dasar) (Selesai ✅).
-- **Sesi Berhenti di**: **MODUL 1 SELESAI!** 🏆 Berhasil menguasai konsep dasar (Console, Numbers, Variabel, Boolean). Siap masuk ke **MODUL 2 — Tipe Data String dan Lainnya** (Materi 30).
+- **Sesi Berhenti di**: **MODUL 2** - Materi 33 (Method & Argument). 📩
 
 ---
 
