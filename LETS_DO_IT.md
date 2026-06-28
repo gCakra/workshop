@@ -3,7 +3,7 @@
 ## 🔗 Indeks Navigasi Cepat
 - [🧭 Peta Jalan & Progres](./README.md)
 - [⚔️ Daftar Tantangan](./CHALLENGES.md)
-- [💾 Memori Utama](../.gemini/tmp/home/memory/MEMORY.md)
+- [💾 Memori Utama](./MENTOR.md)
 
 ---
 
@@ -18,9 +18,9 @@
   - `Materi/`: 01-dasar.
 
 ## 🎯 Status Belajar Terakhir
-- **Topik Aktif**: JavaScript Dasar (Modul 2).
+- **Topik Aktif**: JavaScript Dasar (Modul 2) - [Materi 35: Mengenal Null dan Undefined](./03-JS/Materi/10-null-undefined). 📖
 - **Tantangan Terakhir**: [20-Responsive-Dasar](./02-CSS/Materi/20-responsive-dasar) (Selesai ✅).
-- **Sesi Berhenti di**: **MODUL 2** - Materi 35 (Mengenal Null Dan Undefined). 📩
+- **Sesi Berhenti di**: **MODUL 2** - [Materi 35 (Mengenal Null Dan Undefined)](./03-JS/Materi/10-null-undefined) (Worksheet Siap 📖).
 
 ---
 
