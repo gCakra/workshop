@@ -71,7 +71,7 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 - [x] 31. Penjelasan Index Pada String Dan Panjang Karakter
 - [x] 32. Method-Method Javascript Yang Memudahkan Hidup Kita
 - [x] 33. Method Dan Argument (Parameter)
-- [ ] 34. Template Literals Save Your Life
+- [x] 34. Template Literals Save Your Life
 - [ ] 35. Mengenal Null Dan Undefined
 - [ ] 36. Mengenal Object Math Dan Angka Acak
 

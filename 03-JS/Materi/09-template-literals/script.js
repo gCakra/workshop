@@ -6,7 +6,8 @@
 // 1. Cara Lama (Concatenation) - Ribet dan gampang salah spasi
 let nama = "Garda";
 let umur = 20;
-let kalimatLama = "Halo, nama saya " + nama + " dan umur saya " + umur + " tahun.";
+let kalimatLama =
+  "Halo, nama saya " + nama + " dan umur saya " + umur + " tahun.";
 console.log("Cara Lama:", kalimatLama);
 
 // 2. Cara Baru (Template Literals) - Pake Backtick ( ` ) di sebelah angka 1
@@ -23,6 +24,6 @@ let jumlah = 2;
 // Hasil yang diharapkan: "Anda membeli 2 Keyboard Mechanical dengan total harga Rp. 1000000"
 // Petunjuk: Di dalam ${ } kamu juga bisa melakukan perhitungan matematika lho! (jumlah * harga)
 
-let nota = ``; 
+let nota = `Anda membeli ${jumlah} ${produk} dengan total harga Rp.${harga * jumlah}`;
 
 console.log("Nota Pembelian:", nota);
