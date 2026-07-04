@@ -13,7 +13,7 @@ console.log("Status dompetGarda:", dompetGarda); // Output: undefined
 console.log("Tipe data dompetGarda:", typeof dompetGarda); // Output: undefined
 
 // 2. Contoh Null
-let keranjangBelanja = null; 
+let keranjangBelanja = null;
 console.log("Status keranjangBelanja:", keranjangBelanja); // Output: null
 console.log("Tipe data keranjangBelanja:", typeof keranjangBelanja); // Output: object (Ini adalah bug bersejarah di JS, tapi biarkan saja 😂)
 
@@ -24,4 +24,7 @@ console.log("Tipe data keranjangBelanja:", typeof keranjangBelanja); // Output: 
 // 3. Tampilkan kedua variabel tersebut menggunakan console.log()!
 
 // Tulis kode kamu di bawah ini:
-
+let currentUser = null;
+let userBio;
+console.log(currentUser);
+console.log(userBio);
