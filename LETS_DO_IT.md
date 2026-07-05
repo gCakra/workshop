@@ -15,12 +15,12 @@
 - **02-CSS/**:
   - `Materi/`: 01-dasar-css ... 20-responsive-dasar.
 - **03-JS/**:
-  - `Materi/`: 01-dasar.
+  - `Materi/`: 01-perkenalan ... 11-math-object.
 
 ## 🎯 Status Belajar Terakhir
-- **Topik Aktif**: JavaScript Dasar (Modul 2) - [Materi 35: Mengenal Null dan Undefined](./03-JS/Materi/10-null-undefined). 📖
+- **Topik Aktif**: JavaScript Dasar (Modul 2) - [Materi 36: Mengenal Object Math Dan Angka Acak](./03-JS/Materi/11-math-object). 📖
 - **Tantangan Terakhir**: [20-Responsive-Dasar](./02-CSS/Materi/20-responsive-dasar) (Selesai ✅).
-- **Sesi Berhenti di**: **MODUL 2** - [Materi 35 (Mengenal Null Dan Undefined)](./03-JS/Materi/10-null-undefined) (Worksheet Siap 📖).
+- **Sesi Berhenti di**: **MODUL 2** - [Materi 36 (Mengenal Object Math Dan Angka Acak)](./03-JS/Materi/11-math-object) (Worksheet Siap 📖).
 
 ---
 
