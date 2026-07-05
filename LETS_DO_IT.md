@@ -18,9 +18,9 @@
   - `Materi/`: 01-perkenalan ... 11-math-object.
 
 ## 🎯 Status Belajar Terakhir
-- **Topik Aktif**: JavaScript Dasar (Modul 2) - [Materi 36: Mengenal Object Math Dan Angka Acak](./03-JS/Materi/11-math-object). 📖
+- **Topik Aktif**: JavaScript Dasar (Modul 3) - [Materi 37: Bagaimana Membuat Keputusan Di Dalam Code](./03-JS/Materi/12-membuat-keputusan). 📖
 - **Tantangan Terakhir**: [20-Responsive-Dasar](./02-CSS/Materi/20-responsive-dasar) (Selesai ✅).
-- **Sesi Berhenti di**: **MODUL 2** - [Materi 36 (Mengenal Object Math Dan Angka Acak)](./03-JS/Materi/11-math-object) (Worksheet Siap 📖).
+- **Sesi Berhenti di**: **MODUL 3** - [Materi 37 (Bagaimana Membuat Keputusan Di Dalam Code)](./03-JS/Materi/12-membuat-keputusan) (Worksheet Siap 📖).
 
 ---
 

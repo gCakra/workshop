@@ -73,7 +73,7 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 - [x] 33. Method Dan Argument (Parameter)
 - [x] 34. Template Literals Save Your Life
 - [x] 35. Mengenal Null Dan Undefined
-- [ ] 36. Mengenal Object Math Dan Angka Acak
+- [x] 36. Mengenal Object Math Dan Angka Acak
 
 ### **MODUL 3 — JavaScript Logic Pembuat Keputusan**
 

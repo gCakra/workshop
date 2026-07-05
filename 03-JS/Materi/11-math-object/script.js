@@ -14,8 +14,6 @@ console.log("Round 4.4:", Math.round(4.4)); // 4
 console.log("Round 4.7:", Math.round(4.7)); // 5
 
 // b. Math.floor() -> Membulatkan ke BAWAH (memangkas desimal, mirip lantai).
-console.log("Floor 4.9:", Math.floor(4.9)); // 4
-
 // c. Math.ceil() -> Membulatkan ke ATAS (selalu naik, mirip langit-langit/ceiling).
 console.log("Ceil 4.1:", Math.ceil(4.1)); // 5
 
@@ -38,7 +36,6 @@ console.log("Angka acak desimal (0 s.d <1):", acakDesimal);
 let lemparDadu = Math.floor(Math.random() * 6) + 1;
 console.log("Hasil lempar dadu acak (1-6):", lemparDadu);
 
-
 // --- TUGAS GARDA ---
 // Skenario: Kamu sedang membuat game petualangan sederhana (RPG).
 // 1. Buatlah variabel bernama 'attackPower' yang nilainya diacak dari 10 sampai 20 (inklusif).
@@ -47,3 +44,6 @@ console.log("Hasil lempar dadu acak (1-6):", lemparDadu);
 // 3. Tampilkan kedua variabel tersebut menggunakan console.log() dengan penjelasan yang jelas (gunakan template literals)!
 
 // Tulis kode kamu di bawah ini:
+let attackPower = Math.floor(Math.random() * (20 - 10 + 1) + 10);
+let criticalHit = Math.ceil(15.7);
+console.log(`serangan kamu ${attackPower}, mendapat damage critical menjadi ${criticalHit}`);
