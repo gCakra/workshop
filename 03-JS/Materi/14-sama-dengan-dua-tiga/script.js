@@ -32,7 +32,7 @@ let databasePin = 1234;
 let inputPin = "1234";
 
 // LENGKAPI KODE DI BAWAH INI:
-let apakahPinValid = databasePin ___ inputPin;
+let apakahPinValid = databasePin === inputPin;
 
 console.log("Apakah PIN valid?");
 console.log(apakahPinValid); // Seharusnya menghasilkan: false (karena tipe datanya beda)
