@@ -80,7 +80,7 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 - [x] 37. Bagaimana Membuat Keputusan Di Dalam Code
 - [x] 38. Operator Pembanding
 - [x] 39. Perbedaan Jumlah Sama Dengan Dua Dan Tiga
-- [ ] 40. Console Alert Dan Prompt
+- [x] 40. Console Alert Dan Prompt
 - [ ] 41. Menjalankan Javascript Di Dalam File
 - [ ] 42. If Statement Pertama Yg Kamu Pelajari
 - [ ] 43. Else If Statement Makin Banyak Pilihan

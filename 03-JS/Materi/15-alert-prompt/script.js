@@ -23,8 +23,8 @@
 // Catatan: Isilah bagian yang dikosongkan (___) di bawah ini!
 
 // LENGKAPI KODE DI BAWAH INI:
-let namaPengunjung = ___( "Siapa nama kamu?" );
+let namaPengunjung = prompt( "Siapa nama kamu?" );
 
 if (namaPengunjung) {
-    ___( "Selamat datang, " + namaPengunjung + "! 🚀" );
+    alert( "Selamat datang, " + namaPengunjung + "! 🚀" );
 }

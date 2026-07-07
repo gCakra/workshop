@@ -18,9 +18,9 @@
   - `Materi/`: 01-perkenalan ... 11-math-object.
 
 ## 🎯 Status Belajar Terakhir
-- **Topik Aktif**: JavaScript Dasar (Modul 3) - [Materi 40: Console Alert Dan Prompt](./03-JS/Materi/15-alert-prompt). 📖
-- **Tantangan Terakhir**: [Materi 39: Perbedaan Jumlah Sama Dengan Dua Dan Tiga](./03-JS/Materi/14-sama-dengan-dua-tiga) (Selesai ✅).
-- **Sesi Berhenti di**: **MODUL 3** - [Materi 40 (Console Alert Dan Prompt)](./03-JS/Materi/15-alert-prompt) (Worksheet Siap 📖).
+- **Topik Aktif**: JavaScript Dasar (Modul 3) - [Materi 41: Menjalankan Javascript Di Dalam File](./03-JS/Materi/16-menjalankan-js-file). 📖
+- **Tantangan Terakhir**: [Materi 40: Console Alert Dan Prompt](./03-JS/Materi/15-alert-prompt) (Selesai ✅).
+- **Sesi Berhenti di**: **MODUL 3** - [Materi 41 (Menjalankan Javascript Di Dalam File)](./03-JS/Materi/16-menjalankan-js-file) (Worksheet Siap 📖).
 
 ---
 
