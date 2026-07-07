@@ -42,9 +42,9 @@ let tarifTol = 0;
 
 if (golonganKendaraan === 1) {
     tarifTol = 10000;
-} ___ (golonganKendaraan === 2) {
+} else if (golonganKendaraan === 2) {
     tarifTol = 15000;
-} ___ (golonganKendaraan === 3) {
+} else {
     tarifTol = 20000;
 }
 

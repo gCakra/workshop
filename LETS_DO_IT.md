@@ -18,9 +18,9 @@
   - `Materi/`: 01-perkenalan ... 11-math-object.
 
 ## 🎯 Status Belajar Terakhir
-- **Topik Aktif**: JavaScript Dasar (Modul 3) - [Materi 43: Else If Statement Makin Banyak Pilihan](./03-JS/Materi/18-else-if-statement). 📖
-- **Tantangan Terakhir**: [Materi 42: If Statement Pertama Yg Kamu Pelajari](./03-JS/Materi/17-if-statement) (Selesai ✅).
-- **Sesi Berhenti di**: **MODUL 3** - [Materi 43 (Else If Statement Makin Banyak Pilihan)](./03-JS/Materi/18-else-if-statement) (Worksheet Siap 📖).
+- **Topik Aktif**: JavaScript Dasar (Modul 3) - [Materi 44: Else Adalah Pilihan Terakhir](./03-JS/Materi/19-else-statement). 📖
+- **Tantangan Terakhir**: [Materi 43: Else If Statement Makin Banyak Pilihan](./03-JS/Materi/18-else-if-statement) (Selesai ✅).
+- **Sesi Berhenti di**: **MODUL 3** - [Materi 44 (Else Adalah Pilihan Terakhir)](./03-JS/Materi/19-else-statement) (Worksheet Siap 📖).
 
 ---
 
