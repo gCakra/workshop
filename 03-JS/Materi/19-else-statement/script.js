@@ -31,8 +31,8 @@ if (nilaiTugas >= 60) {
 let passwordTerdaftar = "garda123";
 let passwordInput = "sandiSalah";
 
-___ (passwordInput === passwordTerdaftar) {
+if (passwordInput === passwordTerdaftar) {
     console.log("Login Berhasil! Akses diberikan. 🔓");
-} ___ {
+} else {
     console.log("Password Salah! Akses ditolak. ❌");
 }

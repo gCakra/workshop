@@ -84,7 +84,7 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 - [x] 41. Menjalankan Javascript Di Dalam File
 - [x] 42. If Statement Pertama Yg Kamu Pelajari
 - [x] 43. Else If Statement Makin Banyak Pilihan
-- [ ] 44. Else Adalah Pilihan Terakhir
+- [x] 44. Else Adalah Pilihan Terakhir
 - [ ] 45. Cek Kondisi Berlapis Lebih Aman
 - [ ] 46. Operator Logic And
 - [ ] 47. Operator Logic Or
