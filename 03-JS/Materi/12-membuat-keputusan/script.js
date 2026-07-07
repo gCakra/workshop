@@ -37,6 +37,6 @@ let saldo = 500000;
 let jumlahTarikan = 200000;
 
 // LENGKAPI KODE DI BAWAH INI:
-if (___) {
+if (saldo >= jumlahTarikan) {
     console.log("Transaksi sukses! Uang sedang disiapkan... 💵");
 }

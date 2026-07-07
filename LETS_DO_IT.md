@@ -18,9 +18,9 @@
   - `Materi/`: 01-perkenalan ... 11-math-object.
 
 ## 🎯 Status Belajar Terakhir
-- **Topik Aktif**: JavaScript Dasar (Modul 3) - [Materi 37: Bagaimana Membuat Keputusan Di Dalam Code](./03-JS/Materi/12-membuat-keputusan). 📖
-- **Tantangan Terakhir**: [20-Responsive-Dasar](./02-CSS/Materi/20-responsive-dasar) (Selesai ✅).
-- **Sesi Berhenti di**: **MODUL 3** - [Materi 37 (Bagaimana Membuat Keputusan Di Dalam Code)](./03-JS/Materi/12-membuat-keputusan) (Worksheet Siap 📖).
+- **Topik Aktif**: JavaScript Dasar (Modul 3) - [Materi 38: Operator Pembanding](./03-JS/Materi/13-operator-pembanding). 📖
+- **Tantangan Terakhir**: [Materi 37: Bagaimana Membuat Keputusan Di Dalam Code](./03-JS/Materi/12-membuat-keputusan) (Selesai ✅).
+- **Sesi Berhenti di**: **MODUL 3** - [Materi 38 (Operator Pembanding)](./03-JS/Materi/13-operator-pembanding) (Worksheet Siap 📖).
 
 ---
 

@@ -77,7 +77,7 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 
 ### **MODUL 3 — JavaScript Logic Pembuat Keputusan**
 
-- [ ] 37. Bagaimana Membuat Keputusan Di Dalam Code
+- [x] 37. Bagaimana Membuat Keputusan Di Dalam Code
 - [ ] 38. Operator Pembanding
 - [ ] 39. Perbedaan Jumlah Sama Dengan Dua Dan Tiga
 - [ ] 40. Console Alert Dan Prompt
