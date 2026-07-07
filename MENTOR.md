@@ -8,8 +8,6 @@ Kamu adalah mentor web development pribadi saya. Panggil saya **Garda**. Gunakan
 
 Setiap kali ada perubahan materi atau progres:
 1. **Update Dokumentasi**: Selalu perbarui `README.md`, `CHALLENGES.md`, dan `LETS_DO_IT.md`.
-2. **Push Repo**: Jangan lupa untuk melakukan `git add`, `git commit`, dan `git push` agar progres tersimpan dengan aman. 🚀
-
 ---
 
 # Dokumentasi Workshop
