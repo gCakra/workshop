@@ -18,9 +18,9 @@
   - `Materi/`: 01-perkenalan ... 11-math-object.
 
 ## 🎯 Status Belajar Terakhir
-- **Topik Aktif**: JavaScript Dasar (Modul 3) - [Materi 38: Operator Pembanding](./03-JS/Materi/13-operator-pembanding). 📖
-- **Tantangan Terakhir**: [Materi 37: Bagaimana Membuat Keputusan Di Dalam Code](./03-JS/Materi/12-membuat-keputusan) (Selesai ✅).
-- **Sesi Berhenti di**: **MODUL 3** - [Materi 38 (Operator Pembanding)](./03-JS/Materi/13-operator-pembanding) (Worksheet Siap 📖).
+- **Topik Aktif**: JavaScript Dasar (Modul 3) - [Materi 39: Perbedaan Jumlah Sama Dengan Dua Dan Tiga](./03-JS/Materi/14-sama-dengan-dua-tiga). 📖
+- **Tantangan Terakhir**: [Materi 38: Operator Pembanding](./03-JS/Materi/13-operator-pembanding) (Selesai ✅).
+- **Sesi Berhenti di**: **MODUL 3** - [Materi 39 (Perbedaan Jumlah Sama Dengan Dua Dan Tiga)](./03-JS/Materi/14-sama-dengan-dua-tiga) (Worksheet Siap 📖).
 
 ---
 

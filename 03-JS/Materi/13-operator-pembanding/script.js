@@ -36,7 +36,7 @@ let budget = 150000;
 let hargaBarang = 175000;
 
 // LENGKAPI KODE DI BAWAH INI:
-let masukBudget = hargaBarang ___ budget;
+let masukBudget = hargaBarang <= budget;
 
 console.log("Apakah barang masuk budget?");
 console.log(masukBudget); // Seharusnya menghasilkan: false
