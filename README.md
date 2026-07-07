@@ -82,7 +82,7 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 - [x] 39. Perbedaan Jumlah Sama Dengan Dua Dan Tiga
 - [x] 40. Console Alert Dan Prompt
 - [x] 41. Menjalankan Javascript Di Dalam File
-- [ ] 42. If Statement Pertama Yg Kamu Pelajari
+- [x] 42. If Statement Pertama Yg Kamu Pelajari
 - [ ] 43. Else If Statement Makin Banyak Pilihan
 - [ ] 44. Else Adalah Pilihan Terakhir
 - [ ] 45. Cek Kondisi Berlapis Lebih Aman

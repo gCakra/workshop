@@ -31,6 +31,6 @@ let nilaiUjian = 75;
 let kkm = 70;
 
 // LENGKAPI KODE DI BAWAH INI:
-if (___) {
+if (nilaiUjian >= kkm) {
     console.log("Selamat! Anda dinyatakan LULUS ujian! 🎓🎉");
 }
