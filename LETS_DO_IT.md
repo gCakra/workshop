@@ -1,30 +1,39 @@
-# 📑 Master Mentor Guide & Progress Tracker
+# 📌 State Harian (Sumber Kebenaran Utama)
 
-## 🔗 Indeks Navigasi Cepat
-- [🧭 Peta Jalan & Progres](./README.md)
-- [⚔️ Daftar Tantangan](./CHALLENGES.md)
-- [💾 Memori Utama](./MENTOR.md)
+Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerja dari sini, **jangan buka `README.md`** selama masih di modul yang sama.
 
 ---
 
-## 🏗️ Inventory Workshop (Struktur Final)
-
-- **00-Projects/**: 01-kartu-nama, 02-review-semantic, 03-form-registrasi, 04-navbar-flexbox.
-- **01-HTML/**:
-  - `Materi/`: 01-perkenalan ... 11-elemen-form-lainnya.
-- **02-CSS/**:
-  - `Materi/`: 01-dasar-css ... 20-responsive-dasar.
-- **03-JS/**:
-  - `Materi/`: 01-perkenalan ... 11-math-object.
-
-## 🎯 Status Belajar Terakhir
-- **Topik Aktif**: JavaScript Dasar (Modul 3) - [Materi 45: Cek Kondisi Berlapis Lebih Aman](./03-JS/Materi/20-nested-if). 📖
-- **Tantangan Terakhir**: [Materi 44: Else Adalah Pilihan Terakhir](./03-JS/Materi/19-else-statement) (Selesai ✅).
-- **Sesi Berhenti di**: **MODUL 3** - [Materi 45 (Cek Kondisi Berlapis Lebih Aman)](./03-JS/Materi/20-nested-if) (Worksheet Siap 📖).
+## 🎯 Posisi Sekarang
+| Field | Isi |
+|---|---|
+| Modul aktif | 3 — JavaScript Dasar (JavaScript Logic Pembuat Keputusan) |
+| Materi aktif | 47. Operator Logic Or |
+| Folder | `03-JS/Materi/22-operator-logic-or` |
+| Status worksheet | 📖 Siap, belum dikerjakan Garda |
 
 ---
 
-## 💡 Catatan Mentor Khusus
-- **Standar Baru**: Setiap materi baru wajib ada worksheet lengkap (index.html & style.css) dengan instruksi tugas dan info mentor yang jelas (Style Materi 17+).
-- **Pengecekan Ketat**: Mentor harus validasi pengerjaan sebelum lanjut (Aturan baru di GEMINI.md).
-- **Roadmap JS**: Akan mengikuti screenshot kurikulum Codepolitan yang dikirim Garda.
+## 📋 Checklist Modul Aktif (salinan lokal — kerja di sini, bukan di README)
+> Diambil 1x dari `README.md` saat modul ini dimulai. Centang di sini tiap materi selesai. Saat SEMUA tercentang → trigger sync ke README (lihat MENTOR.md).
+
+- [x] 37. Bagaimana Membuat Keputusan Di Dalam Code
+- [x] 38. Operator Pembanding
+- [x] 39. Perbedaan Jumlah Sama Dengan Dua Dan Tiga
+- [x] 40. Console Alert Dan Prompt
+- [x] 41. Menjalankan Javascript Di Dalam File
+- [x] 42. If Statement Pertama Yg Kamu Pelajari
+- [x] 43. Else If Statement Makin Banyak Pilihan
+- [x] 44. Else Adalah Pilihan Terakhir
+- [x] 45. Cek Kondisi Berlapis Lebih Aman
+- [x] 46. Operator Logic And
+- [ ] 47. Operator Logic Or
+- [ ] 48. Operator Logic Not
+- [ ] 49. Switch Sebagai Alternatif If Statement
+
+---
+
+## 📥 Buffer Sync ke CHALLENGES (belum di-checklist)
+*(kosong — isi kalau ada challenge yang selesai tapi belum di-checklist)*
+
+---

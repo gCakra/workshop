@@ -41,11 +41,11 @@ let passwordBaru = "garda 123";
 // Cek syarat 1: Panjang password
 if (passwordBaru.length >= 8) {
     // Cek syarat 2: Apakah tidak mengandung spasi? (indexOf(" ") bernilai -1)
-    ___ (passwordBaru.indexOf(" ") === -1) {
+    if (passwordBaru.indexOf(" ") === -1) {
         console.log("Password aman dan valid! ✅");
-    } ___ {
+    } else {
         console.log("Password gagal: Tidak boleh mengandung spasi! ❌");
     }
-} ___ {
+} else {
     console.log("Password gagal: Panjang minimal harus 8 karakter! ❌");
 }

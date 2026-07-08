@@ -26,7 +26,7 @@ if (nilai >= 90) {
 console.log("Indeks Prestasi: " + indeksPrestasi);
 
 // --- TUGAS GARDA ---
-// Skenario: Kamu sedang membuat sistem pembayaran tol otomatis. 
+// Skenario: Kamu sedang membuat sistem pembayaran tol otomatis.
 // Tarif tol berbeda tergantung golongan kendaraan:
 // - Golongan 1 (sedan, jip, pickup) -> Tarif: Rp10.000
 // - Golongan 2 (truk kecil/sedang) -> Tarif: Rp15.000
