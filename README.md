@@ -77,19 +77,19 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 
 ### **MODUL 3 — JavaScript Logic Pembuat Keputusan**
 
-- [x] 37. Bagaimana Membuat Keputusan Di Dalam Code
-- [x] 38. Operator Pembanding
-- [x] 39. Perbedaan Jumlah Sama Dengan Dua Dan Tiga
-- [x] 40. Console Alert Dan Prompt
-- [x] 41. Menjalankan Javascript Di Dalam File
-- [x] 42. If Statement Pertama Yg Kamu Pelajari
-- [x] 43. Else If Statement Makin Banyak Pilihan
-- [x] 44. Else Adalah Pilihan Terakhir
-- [ ] 45. Cek Kondisi Berlapis Lebih Aman
-- [ ] 46. Operator Logic And
-- [ ] 47. Operator Logic Or
-- [ ] 48. Operator Logic Not
-- [ ] 49. Switch Sebagai Alternatif If Statement
+- [x] 37. Bagaimana Membuat Keputusan Di Dalam Code (SELESAI ✅)
+- [x] 38. Operator Pembanding (SELESAI ✅)
+- [x] 39. Perbedaan Jumlah Sama Dengan Dua Dan Tiga (SELESAI ✅)
+- [x] 40. Console Alert Dan Prompt (SELESAI ✅)
+- [x] 41. Menjalankan Javascript Di Dalam File (SELESAI ✅)
+- [x] 42. If Statement Pertama Yg Kamu Pelajari (SELESAI ✅)
+- [x] 43. Else If Statement Makin Banyak Pilihan (SELESAI ✅)
+- [x] 44. Else Adalah Pilihan Terakhir (SELESAI ✅)
+- [x] 45. Cek Kondisi Berlapis Lebih Aman (SELESAI ✅)
+- [x] 46. Operator Logic And (SELESAI ✅)
+- [x] 47. Operator Logic Or (SELESAI ✅)
+- [x] 48. Operator Logic Not (SELESAI ✅)
+- [x] 49. Switch Sebagai Alternatif If Statement (SELESAI ✅)
 
 ### **MODUL 4 — JavaScript Struktur Data Array**
 

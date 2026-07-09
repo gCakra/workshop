@@ -7,10 +7,10 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 ## 🎯 Posisi Sekarang
 | Field | Isi |
 |---|---|
-| Modul aktif | 3 — JavaScript Dasar (JavaScript Logic Pembuat Keputusan) |
-| Materi aktif | 47. Operator Logic Or |
-| Folder | `03-JS/Materi/22-operator-logic-or` |
-| Status worksheet | 📖 Siap, belum dikerjakan Garda |
+| Modul aktif | 3 — JavaScript Dasar (SELESAI ✅) |
+| Materi aktif | - |
+| Folder | - |
+| Status worksheet | - |
 
 ---
 
@@ -27,9 +27,9 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 - [x] 44. Else Adalah Pilihan Terakhir
 - [x] 45. Cek Kondisi Berlapis Lebih Aman
 - [x] 46. Operator Logic And
-- [ ] 47. Operator Logic Or
-- [ ] 48. Operator Logic Not
-- [ ] 49. Switch Sebagai Alternatif If Statement
+- [x] 47. Operator Logic Or
+- [x] 48. Operator Logic Not
+- [x] 49. Switch Sebagai Alternatif If Statement
 
 ---
 
