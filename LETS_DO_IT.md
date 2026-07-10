@@ -5,35 +5,33 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 ---
 
 ## 🎯 Posisi Sekarang
-| Field | Isi |
-|---|---|
-| Modul aktif | 3 — JavaScript Dasar (SELESAI ✅) |
-| Materi aktif | - |
-| Folder | - |
-| Status worksheet | - |
+
+| Field            | Isi                                                    |
+| ---------------- | ------------------------------------------------------ |
+| Modul aktif      | 4 — JavaScript Struktur Data Array                     |
+| Materi aktif     | 55. Beberapa Method Array Yang Sering Digunakan Lagi    |
+| Folder           | `03-JS/Materi/29-array-method-part2`                  |
+| Status worksheet | 📖 Siap, belum dikerjakan Garda                        |
 
 ---
 
 ## 📋 Checklist Modul Aktif (salinan lokal — kerja di sini, bukan di README)
+
 > Diambil 1x dari `README.md` saat modul ini dimulai. Centang di sini tiap materi selesai. Saat SEMUA tercentang → trigger sync ke README (lihat MENTOR.md).
 
-- [x] 37. Bagaimana Membuat Keputusan Di Dalam Code
-- [x] 38. Operator Pembanding
-- [x] 39. Perbedaan Jumlah Sama Dengan Dua Dan Tiga
-- [x] 40. Console Alert Dan Prompt
-- [x] 41. Menjalankan Javascript Di Dalam File
-- [x] 42. If Statement Pertama Yg Kamu Pelajari
-- [x] 43. Else If Statement Makin Banyak Pilihan
-- [x] 44. Else Adalah Pilihan Terakhir
-- [x] 45. Cek Kondisi Berlapis Lebih Aman
-- [x] 46. Operator Logic And
-- [x] 47. Operator Logic Or
-- [x] 48. Operator Logic Not
-- [x] 49. Switch Sebagai Alternatif If Statement
+- [x] 50. Mengenal Struktur Data Array
+- [x] 51. Mendapatkan Nilai Dengan Index Dan Mengubah Isinya
+- [x] 52. Method Array Push Dan Pop
+- [x] 53. Method Array Unshift Dan Shift
+- [x] 54. Beberapa Method Array Yang Sering Digunakan
+- [ ] 55. Beberapa Method Array Yang Sering Digunakan Lagi
+- [ ] 56. Mengubah Nilai Const Dengan Array
+- [ ] 57. Array Multidimensi Atau Nested Array
 
 ---
 
 ## 📥 Buffer Sync ke CHALLENGES (belum di-checklist)
-*(kosong — isi kalau ada challenge yang selesai tapi belum di-checklist)*
+
+_(kosong — isi kalau ada challenge yang selesai tapi belum di-checklist)_
 
 ---
