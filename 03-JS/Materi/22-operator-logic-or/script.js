@@ -36,7 +36,7 @@ let usia = 7;
 let tinggi = 105;
 
 // Gabungkan syarat usia di bawah 6 tahun ATAU tinggi di bawah 110 cm!
-if (usia < 6 || tinggi < 110) {
+if (usia > 6 || tinggi > 110) {
     console.log("Hore, anak boleh masuk bioskop secara GRATIS! 🍿🎈");
 } else {
     console.log("Anak harus membeli tiket masuk reguler. ❌");

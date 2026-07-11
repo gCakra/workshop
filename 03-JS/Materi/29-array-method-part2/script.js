@@ -25,35 +25,35 @@ let namaProduk = ["pensil", "buku", "tas", "sepatu", "jaket"];
 
 // 1. Gunakan indexOf() untuk mencari index dari harga 50000.
 //    Simpan hasilnya ke variabel `indexHarga` dan cetak.
-let indexHarga = hargaProduk.___(___);
-console.log("Index harga 50000:", ___);
+let indexHarga = hargaProduk.indexOf(50000);
+console.log("Index harga 50000:", indexHarga);
 
 // 2. Gunakan indexOf() untuk mencari harga 99999 (yang tidak ada).
 //    Simpan hasilnya ke variabel `indexTidakAda` dan cetak.
 //    (Hasilnya harus -1 karena tidak ditemukan)
-let indexTidakAda = hargaProduk.___(___);
-console.log("Index harga 99999:", ___);
+let indexTidakAda = hargaProduk.indexOf(99999);
+console.log("Index harga 99999:", indexTidakAda);
 
 // 3. Gunakan includes() untuk mengecek apakah "tas" ada di daftar produk.
 //    Simpan hasilnya ke variabel `adaTas` dan cetak.
-let adaTas = namaProduk.___(___);
-console.log("Apakah ada tas?", ___);
+let adaTas = namaProduk.includes("tas");
+console.log("Apakah ada tas?", adaTas);
 
 // 4. Gunakan includes() untuk mengecek apakah "topi" ada di daftar produk.
 //    Simpan hasilnya ke variabel `adaTopi` dan cetak.
-let adaTopi = namaProduk.___(___);
-console.log("Apakah ada topi?", ___);
+let adaTopi = namaProduk.includes("topi");
+console.log("Apakah ada topi?", adaTopi);
 
 // 5. Gunakan find() untuk mencari harga PERTAMA yang lebih dari 40000.
 //    Simpan hasilnya ke variabel `hargaMahal` dan cetak.
-let hargaMahal = hargaProduk.___(function(harga) {
-  return ___;
+let hargaMahal = hargaProduk.find(function (harga) {
+    return harga > 40000;
 });
-console.log("Harga pertama di atas 40000:", ___);
+console.log("Harga pertama di atas 40000:", hargaMahal);
 
 // 6. Gunakan findIndex() untuk mencari INDEX harga pertama yang lebih dari 40000.
 //    Simpan hasilnya ke variabel `indexMahal` dan cetak.
-let indexMahal = hargaProduk.___(function(harga) {
-  return ___;
+let indexMahal = hargaProduk.findIndex(function (harga) {
+    return harga > 40000;
 });
-console.log("Index harga pertama di atas 40000:", ___);
+console.log("Index harga pertama di atas 40000:", indexMahal);

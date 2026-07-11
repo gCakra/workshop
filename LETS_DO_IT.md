@@ -9,8 +9,8 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 | Field            | Isi                                                    |
 | ---------------- | ------------------------------------------------------ |
 | Modul aktif      | 4 — JavaScript Struktur Data Array                     |
-| Materi aktif     | 55. Beberapa Method Array Yang Sering Digunakan Lagi    |
-| Folder           | `03-JS/Materi/29-array-method-part2`                  |
+| Materi aktif     | 56. Mengubah Nilai Const Dengan Array                  |
+| Folder           | `03-JS/Materi/30-mengubah-nilai-const`                  |
 | Status worksheet | 📖 Siap, belum dikerjakan Garda                        |
 
 ---
@@ -24,7 +24,7 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 - [x] 52. Method Array Push Dan Pop
 - [x] 53. Method Array Unshift Dan Shift
 - [x] 54. Beberapa Method Array Yang Sering Digunakan
-- [ ] 55. Beberapa Method Array Yang Sering Digunakan Lagi
+- [x] 55. Beberapa Method Array Yang Sering Digunakan Lagi
 - [ ] 56. Mengubah Nilai Const Dengan Array
 - [ ] 57. Array Multidimensi Atau Nested Array
 
