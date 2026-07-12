@@ -19,15 +19,15 @@
 
 // 1. Buat sebuah array konstan bernama `hobi` berisi 3 hobi favorit kamu.
 //    Gunakan keyword `const`.
-const hobi = [___, ___, ___];
+const hobi = ["nulis", "renang", "coding"];
 console.log("Hobi awal:", hobi);
 
 // 2. Ubah hobi pertama (index 0) menjadi hobi baru pilihanmu menggunakan index.
-hobi[___] = ___;
+hobi[0] = "nonton";
 console.log("Hobi setelah diubah:", hobi);
 
 // 3. Tambahkan satu hobi baru di bagian akhir array menggunakan method push().
-hobi.___(___);
+hobi.push("game");
 console.log("Hobi setelah push:", hobi);
 
 // 4. (Eksperimen / Opsional) Coba hilangkan tanda komentar pada 2 baris di bawah ini,

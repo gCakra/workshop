@@ -8,9 +8,9 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 
 | Field            | Isi                                                    |
 | ---------------- | ------------------------------------------------------ |
-| Modul aktif      | 4 — JavaScript Struktur Data Array                     |
-| Materi aktif     | 56. Mengubah Nilai Const Dengan Array                  |
-| Folder           | `03-JS/Materi/30-mengubah-nilai-const`                  |
+| Modul aktif      | 5 — JavaScript Struktur Data Object                    |
+| Materi aktif     | 58. Apa Itu Object                                     |
+| Folder           | `03-JS/Materi/32-apa-itu-object`                        |
 | Status worksheet | 📖 Siap, belum dikerjakan Garda                        |
 
 ---
@@ -19,14 +19,11 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 
 > Diambil 1x dari `README.md` saat modul ini dimulai. Centang di sini tiap materi selesai. Saat SEMUA tercentang → trigger sync ke README (lihat MENTOR.md).
 
-- [x] 50. Mengenal Struktur Data Array
-- [x] 51. Mendapatkan Nilai Dengan Index Dan Mengubah Isinya
-- [x] 52. Method Array Push Dan Pop
-- [x] 53. Method Array Unshift Dan Shift
-- [x] 54. Beberapa Method Array Yang Sering Digunakan
-- [x] 55. Beberapa Method Array Yang Sering Digunakan Lagi
-- [ ] 56. Mengubah Nilai Const Dengan Array
-- [ ] 57. Array Multidimensi Atau Nested Array
+- [ ] 58. Apa Itu Object
+- [ ] 59. Cara Membuat Struktur Data Object
+- [ ] 60. Cara Memanggil Data Dari Object
+- [ ] 61. Cara Membuat Object Berjalan
+- [ ] 62. Cara Memanggil Object Di Dalam Array
 
 ---
 

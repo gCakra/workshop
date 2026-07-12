@@ -98,9 +98,9 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 - [x] 52. Method Array Push Dan Pop (SELESAI ✅)
 - [x] 53. Method Array Unshift Dan Shift (SELESAI ✅)
 - [x] 54. Beberapa Method Array Yang Sering Digunakan (SELESAI ✅)
-- [ ] 55. Beberapa Method Array Yang Sering Digunakan Lagi
-- [ ] 56. Mengubah Nilai Const Dengan Array
-- [ ] 57. Array Multidimensi Atau Nested Array
+- [x] 55. Beberapa Method Array Yang Sering Digunakan Lagi (SELESAI ✅)
+- [x] 56. Mengubah Nilai Const Dengan Array (SELESAI ✅)
+- [x] 57. Array Multidimensi Atau Nested Array (SELESAI ✅)
 
 ### **MODUL 5 — JavaScript Struktur Data Object**
 
