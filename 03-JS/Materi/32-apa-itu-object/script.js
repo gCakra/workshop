@@ -38,24 +38,29 @@
 //    umur: 15
 //    kota: "Jakarta"
 //    Gunakan keyword `const`.
-const profil = ___;
+const profil = {
+  nama: "Garda",
+  umur: 15,
+  kota: "Jakarta",
+  hobi: "game",
+};
 console.log("Data profil:", profil);
 
 // 2. Tampilkan nilai property `nama` dari object profil.
 //    Petunjuk: profil.nama
-console.log("Nama:", ___);
+console.log("Nama:", profil.nama);
 
 // 3. Tampilkan nilai property `umur` dari object profil.
-console.log("Umur:", ___);
+console.log("Umur:", profil.umur);
 
 // 4. Ubah nilai property `kota` menjadi "Bandung".
 //    Petunjuk: profil.kota = "Bandung";
-___;
+profil.kota = "Bandung";
 console.log("Setelah kota diubah:", profil);
 
 // 5. Tambahkan property baru bernama `hobi` dengan nilai "coding".
 //    Petunjuk: profil.hobi = "coding";
-___;
+profil.hobi = "Coding";
 console.log("Setelah tambah hobi:", profil);
 
 // --- EKSPERIMEN OPSIONAL ---

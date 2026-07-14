@@ -9,9 +9,9 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 | Field            | Isi                                                    |
 | ---------------- | ------------------------------------------------------ |
 | Modul aktif      | 5 — JavaScript Struktur Data Object                    |
-| Materi aktif     | 58. Apa Itu Object                                     |
-| Folder           | `03-JS/Materi/32-apa-itu-object`                        |
-| Status worksheet | 📖 Siap, belum dikerjakan Garda                        |
+| Materi aktif     | 61. Cara Membuat Object Berjalan                  |
+| Folder           | `03-JS/Materi/35-cara-membuat-object-berjalan`                    |
+| Status worksheet | 📖 Siap, belum dikerjakan Garda — worksheet ada di 35-cara-membuat-object-berjalan |
 
 ---
 
@@ -19,9 +19,9 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 
 > Diambil 1x dari `README.md` saat modul ini dimulai. Centang di sini tiap materi selesai. Saat SEMUA tercentang → trigger sync ke README (lihat MENTOR.md).
 
-- [ ] 58. Apa Itu Object
-- [ ] 59. Cara Membuat Struktur Data Object
-- [ ] 60. Cara Memanggil Data Dari Object
+- [x] 58. Apa Itu Object
+- [x] 59. Cara Membuat Struktur Data Object
+- [x] 60. Cara Memanggil Data Dari Object
 - [ ] 61. Cara Membuat Object Berjalan
 - [ ] 62. Cara Memanggil Object Di Dalam Array
 
