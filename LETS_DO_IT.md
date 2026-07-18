@@ -8,10 +8,10 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 
 | Field            | Isi                                                    |
 | ---------------- | ------------------------------------------------------ |
-| Modul aktif      | 5 — JavaScript Struktur Data Object                    |
-| Materi aktif     | 61. Cara Membuat Object Berjalan                  |
-| Folder           | `03-JS/Materi/35-cara-membuat-object-berjalan`                    |
-| Status worksheet | 📖 Siap, belum dikerjakan Garda — worksheet ada di 35-cara-membuat-object-berjalan |
+| Modul aktif      | 6 — JavaScript Perulangan menggunakan For Loop         |
+| Materi aktif     | 67. Pengenalan Nested Loop
+| Folder           | `03-JS/Materi/41-pengenalan-nested-loop`
+| Status worksheet | 📖 Siap, belum dikerjakan Garda — worksheet ada di 41-pengenalan-nested-loop |
 
 ---
 
@@ -19,11 +19,19 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 
 > Diambil 1x dari `README.md` saat modul ini dimulai. Centang di sini tiap materi selesai. Saat SEMUA tercentang → trigger sync ke README (lihat MENTOR.md).
 
-- [x] 58. Apa Itu Object
-- [x] 59. Cara Membuat Struktur Data Object
-- [x] 60. Cara Memanggil Data Dari Object
-- [ ] 61. Cara Membuat Object Berjalan
-- [ ] 62. Cara Memanggil Object Di Dalam Array
+### **MODUL 6 — JavaScript Perulangan menggunakan For Loop**
+
+- [x] 63. Pengenalan Perulangan
+- [x] 64. Contoh Lain Perulangan For
+- [x] 65. Awas Perulangan Tanpa Henti
+- [x] 66. Mendapatkan Data Dari Array Dengan Perulangan
+- [ ] 67. Pengenalan Nested Loop
+- [ ] 68. Mendapatkan Data Dari Nested Array Dengan Nested Loop
+- [ ] 69. Perulangan Menggunakan Perintah While
+- [ ] 70. Kata Kunci Break Untuk Memberhentikan Perulangan
+- [ ] 71. Membuat Game Tebak Tebakkan Angka Dengan While
+- [ ] 72. Cara Elegan Melakukan Perulangan Pada Array For Of
+- [ ] 73. Melakukan Perulangan Pada Object Dengan Elegan For In
 
 ---
 

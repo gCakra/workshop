@@ -21,13 +21,12 @@
 const kucing = {
   nama: "Blacky",
   warna: "Hitam",
-  bersuara: function() {
+  bersuara: function () {
     return `Meoow! Kata ${this.nama} si kucing ${this.warna}.`;
-  }
+  },
 };
 console.log("Kucingku:", kucing);
 console.log(kucing.bersuara());
-
 
 // --- TUGAS GARDA ---
 // Ikuti petunjuk di bawah ini dengan mengisi bagian kosong `___`!
@@ -39,34 +38,33 @@ console.log(kucing.bersuara());
 //      (ingat gunakan keyword `___` untuk memanggil property milik object sendiri)
 
 const kalkulator = {
-  ___: ___,
-  ___: ___,
-  tambah: function() {
-    return ___.___ + ___.___;
+  angka1: 10,
+  angka2: 5,
+  tambah: function () {
+    return this.angka1 + this.angka2;
   },
-  kurang: function() {
+  kurang: function () {
     // 2. Buat fungsi untuk mengurangkan angka1 dengan angka2
-    return ___.___ ___ ___.___;
-  }
+    return this.angka1 - this.angka2;
+  },
 };
 
 // 3. Panggil method `tambah` dari object kalkulator
-console.log("Hasil tambah:", kalkulator.___());
+console.log("Hasil tambah:", kalkulator.tambah());
 
 // 4. Panggil method `kurang` dari object kalkulator
-console.log("Hasil kurang:", kalkulator.___());
-
+console.log("Hasil kurang:", kalkulator.kurang());
 
 // 5. Kita buat object baru `player`. Lengkapi method `sapa`!
 const player = {
   username: "Garda",
   level: 99,
-  sapa: ___() {
-    return `Halo, saya ${___.___} dengan level ${___.___}!`;
-  }
+  sapa: function () {
+    return `Halo, saya ${this.username} dengan level ${this.level}!`;
+  },
 };
 
-console.log(player.___());
+console.log(player.sapa());
 
 // --- EKSPERIMEN OPSIONAL ---
 // Coba buat object yang method-nya menerima parameter (seperti function biasa).

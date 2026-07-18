@@ -104,11 +104,11 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 
 ### **MODUL 5 — JavaScript Struktur Data Object**
 
-- [ ] 58. Apa Itu Object
-- [ ] 59. Cara Membuat Struktur Data Object
-- [ ] 60. Cara Memanggil Data Dari Object
-- [ ] 61. Cara Membuat Object Berjalan
-- [ ] 62. Cara Memanggil Object Di Dalam Array
+- [x] 58. Apa Itu Object (SELESAI ✅)
+- [x] 59. Cara Membuat Struktur Data Object (SELESAI ✅)
+- [x] 60. Cara Memanggil Data Dari Object (SELESAI ✅)
+- [x] 61. Cara Membuat Object Berjalan (SELESAI ✅)
+- [x] 62. Cara Memanggil Object Di Dalam Array (SELESAI ✅)
 
 ### **MODUL 6 — JavaScript Perulangan menggunakan For Loop**
 
