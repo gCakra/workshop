@@ -9,9 +9,9 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 | Field            | Isi                                                    |
 | ---------------- | ------------------------------------------------------ |
 | Modul aktif      | 6 — JavaScript Perulangan menggunakan For Loop         |
-| Materi aktif     | 67. Pengenalan Nested Loop
-| Folder           | `03-JS/Materi/41-pengenalan-nested-loop`
-| Status worksheet | 📖 Siap, belum dikerjakan Garda — worksheet ada di 41-pengenalan-nested-loop |
+| Materi aktif     | 68. Mendapatkan Data Dari Nested Array Dengan Nested Loop
+| Folder           | `03-JS/Materi/42-mendapatkan-data-dari-nested-array-dengan-nested-loop`
+| Status worksheet | 📖 Siap, belum dikerjakan Garda — worksheet ada di 42-mendapatkan-data-dari-nested-array-dengan-nested-loop |
 
 ---
 
@@ -25,7 +25,7 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 - [x] 64. Contoh Lain Perulangan For
 - [x] 65. Awas Perulangan Tanpa Henti
 - [x] 66. Mendapatkan Data Dari Array Dengan Perulangan
-- [ ] 67. Pengenalan Nested Loop
+- [x] 67. Pengenalan Nested Loop
 - [ ] 68. Mendapatkan Data Dari Nested Array Dengan Nested Loop
 - [ ] 69. Perulangan Menggunakan Perintah While
 - [ ] 70. Kata Kunci Break Untuk Memberhentikan Perulangan
