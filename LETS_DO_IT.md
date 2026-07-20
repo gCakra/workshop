@@ -9,9 +9,9 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 | Field            | Isi                                                    |
 | ---------------- | ------------------------------------------------------ |
 | Modul aktif      | 6 — JavaScript Perulangan menggunakan For Loop         |
-| Materi aktif     | 68. Mendapatkan Data Dari Nested Array Dengan Nested Loop
-| Folder           | `03-JS/Materi/42-mendapatkan-data-dari-nested-array-dengan-nested-loop`
-| Status worksheet | 📖 Siap, belum dikerjakan Garda — worksheet ada di 42-mendapatkan-data-dari-nested-array-dengan-nested-loop |
+| Materi aktif     | 71. Membuat Game Tebak Tebakkan Angka Dengan While
+| Folder           | `03-JS/Materi/45-membuat-game-tebak-tebakkan-angka-dengan-while`
+| Status worksheet | ⏳ Belum dibuat |
 
 ---
 
@@ -26,9 +26,9 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 - [x] 65. Awas Perulangan Tanpa Henti
 - [x] 66. Mendapatkan Data Dari Array Dengan Perulangan
 - [x] 67. Pengenalan Nested Loop
-- [ ] 68. Mendapatkan Data Dari Nested Array Dengan Nested Loop
-- [ ] 69. Perulangan Menggunakan Perintah While
-- [ ] 70. Kata Kunci Break Untuk Memberhentikan Perulangan
+- [x] 68. Mendapatkan Data Dari Nested Array Dengan Nested Loop
+- [x] 69. Perulangan Menggunakan Perintah While
+- [x] 70. Kata Kunci Break Untuk Memberhentikan Perulangan
 - [ ] 71. Membuat Game Tebak Tebakkan Angka Dengan While
 - [ ] 72. Cara Elegan Melakukan Perulangan Pada Array For Of
 - [ ] 73. Melakukan Perulangan Pada Object Dengan Elegan For In

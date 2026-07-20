@@ -38,3 +38,11 @@ const denahKursi = [
 ];
 
 // Tulis kodemu di sini
+for (let i = 0; i < denahKursi.length; i++) {
+  for (let j = 0; j < denahKursi[i].length; j++) {
+    if (denahKursi[i][j] !== null) {
+      console.log(`Baris ${i} Kursi ${j} ${denahKursi[i][j]}`)
+
+    }
+  }
+}
