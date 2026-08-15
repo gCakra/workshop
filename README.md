@@ -112,17 +112,17 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 
 ### **MODUL 6 — JavaScript Perulangan menggunakan For Loop**
 
-- [ ] 63. Pengenalan Perulangan
-- [ ] 64. Contoh Lain Perulangan For
-- [ ] 65. Awas Perulangan Tanpa Henti
-- [ ] 66. Mendapatkan Data Dari Array Dengan Perulangan
-- [ ] 67. Pengenalan Nested Loop
-- [ ] 68. Mendapatkan Data Dari Nested Array Dengan Nested Loop
-- [ ] 69. Perulangan Menggunakan Perintah While
-- [ ] 70. Kata Kunci Break Untuk Memberhentikan Perulangan
-- [ ] 71. Membuat Game Tebak Tebakkan Angka Dengan While
-- [ ] 72. Cara Elegan Melakukan Perulangan Pada Array For Of
-- [ ] 73. Melakukan Perulangan Pada Object Dengan Elegan For In
+- [x] 63. Pengenalan Perulangan
+- [x] 64. Contoh Lain Perulangan For
+- [x] 65. Awas Perulangan Tanpa Henti
+- [x] 66. Mendapatkan Data Dari Array Dengan Perulangan
+- [x] 67. Pengenalan Nested Loop
+- [x] 68. Mendapatkan Data Dari Nested Array Dengan Nested Loop
+- [x] 69. Perulangan Menggunakan Perintah While
+- [x] 70. Kata Kunci Break Untuk Memberhentikan Perulangan
+- [x] 71. Membuat Game Tebak Tebakkan Angka Dengan While
+- [x] 72. Cara Elegan Melakukan Perulangan Pada Array For Of
+- [x] 73. Melakukan Perulangan Pada Object Dengan Elegan For In
 
 ### **MODUL 7 — Function dan Method pada JavaScript**
 

@@ -10,4 +10,4 @@ Daftar tugas untuk menguji skill kamu.
 - [x] **05-Profile-Card-Integrasi** (`02-CSS/Materi/19-integrasi-css`) (SELESAI ✅)
 
 ## 🟡 Level 02: JavaScript & DOM
-(Belum ada tantangan aktif)
+- [ ] **06-Kasir-Toko-Mini** (`00-Projects/05-kasir-toko-mini`)

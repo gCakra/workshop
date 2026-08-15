@@ -8,10 +8,10 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 
 | Field            | Isi                                                    |
 | ---------------- | ------------------------------------------------------ |
-| Modul aktif      | 6 — JavaScript Perulangan menggunakan For Loop         |
-| Materi aktif     | 71. Membuat Game Tebak Tebakkan Angka Dengan While
-| Folder           | `03-JS/Materi/45-membuat-game-tebak-tebakkan-angka-dengan-while`
-| Status worksheet | ⏳ Belum dibuat |
+| Modul aktif      | 7 — Function dan Method pada JavaScript                |
+| Materi aktif     | 74. Pengenalan Function Di Javascript
+| Folder           | `03-JS/Materi/48-pengenalan-function-di-javascript`
+| Status worksheet | ⏳ Belum siap |
 
 ---
 
@@ -19,24 +19,27 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 
 > Diambil 1x dari `README.md` saat modul ini dimulai. Centang di sini tiap materi selesai. Saat SEMUA tercentang → trigger sync ke README (lihat MENTOR.md).
 
-### **MODUL 6 — JavaScript Perulangan menggunakan For Loop**
+### **MODUL 7 — Function dan Method pada JavaScript**
 
-- [x] 63. Pengenalan Perulangan
-- [x] 64. Contoh Lain Perulangan For
-- [x] 65. Awas Perulangan Tanpa Henti
-- [x] 66. Mendapatkan Data Dari Array Dengan Perulangan
-- [x] 67. Pengenalan Nested Loop
-- [x] 68. Mendapatkan Data Dari Nested Array Dengan Nested Loop
-- [x] 69. Perulangan Menggunakan Perintah While
-- [x] 70. Kata Kunci Break Untuk Memberhentikan Perulangan
-- [ ] 71. Membuat Game Tebak Tebakkan Angka Dengan While
-- [ ] 72. Cara Elegan Melakukan Perulangan Pada Array For Of
-- [ ] 73. Melakukan Perulangan Pada Object Dengan Elegan For In
+- [ ] 74. Pengenalan Function Di Javascript
+- [ ] 75. Mendefinisikan Dan Menjalankan Function
+- [ ] 76. Argument Dan Parameter Dalam Function
+- [ ] 77. Multiple Parameter Dan Argument
+- [ ] 78. Statement Return Pada Function
+- [ ] 79. Visibilitas Variabel Sesuai Scope Atau Ruang Lingkup
+- [ ] 80. Blocked Scope Variabel
+- [ ] 81. Lexical Scope
+- [ ] 82. Function Expressions
+- [ ] 83. Function Sebagai Argument Function Lain
+- [ ] 84. Function Bernilai Balik Function
+- [ ] 85. Definisi Sebuah Method
+- [ ] 86. This Adalah Keyword Sakti
+- [ ] 87. Try And Catch Adalah Penyelamat
 
 ---
 
 ## 📥 Buffer Sync ke CHALLENGES (belum di-checklist)
 
-_(kosong — isi kalau ada challenge yang selesai tapi belum di-checklist)_
+- [ ] **06-Kasir-Toko-Mini** (`00-Projects/05-kasir-toko-mini`)
 
 ---
