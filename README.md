@@ -126,11 +126,11 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 
 ### **MODUL 7 — Function dan Method pada JavaScript**
 
-- [ ] 74. Pengenalan Function Di Javascript
-- [ ] 75. Mendefinisikan Dan Menjalankan Function
-- [ ] 76. Argument Dan Parameter Dalam Function
-- [ ] 77. Multiple Parameter Dan Argument
-- [ ] 78. Statement Return Pada Function
+- [x] 74. Pengenalan Function Di Javascript
+- [x] 75. Mendefinisikan Dan Menjalankan Function
+- [x] 76. Argument Dan Parameter Dalam Function
+- [x] 77. Multiple Parameter Dan Argument
+- [x] 78. Statement Return Pada Function
 - [ ] 79. Visibilitas Variabel Sesuai Scope Atau Ruang Lingkup
 - [ ] 80. Blocked Scope Variabel
 - [ ] 81. Lexical Scope
