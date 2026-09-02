@@ -37,7 +37,12 @@
 // Panggil function-nya. (Ingat: function boleh mengakses variabel global).
 
 // -- Tulis kode di sini --
+let namaSekolah = "SMA Harapan";
+function tampilkanSekolah() {
+  console.log(`Sekolah saya di ${namaSekolah}`);
+}
 
+tampilkanSekolah();
 
 // 📝 Tugas 2 (Membaca Variabel Local):
 // Buat function "tokoBuku". Di dalamnya, buat variabel lokal "namaBuku" = "Harry Potter".
@@ -45,7 +50,12 @@
 // Amati error apa yang muncul di console, lalu tulis di baris komentar di bawah tugas ini.
 
 // -- Tulis kode di sini --
+function tokoBuku() {
+  let namaBuku = "Harry Potter";
+}
 
+//console.log(namaBuku);
+//ReferenceError: namaBuku is not definedl
 
 // 📝 Tugas 3 (Shadowing / Tumpang Tindih Nama Variabel):
 // Buat variabel global "makanan" = "Nasi Goreng".
@@ -57,4 +67,11 @@
 // Amati perbedaannya! Mengapa di dalam bernilai "Sate Ayam" dan di luar tetap "Nasi Goreng"?
 
 // -- Tulis kode di sini --
+let makanan = "Nasi Goreng";
+function makanMalam() {
+  let makanan = "Sate Ayam";
+  console.log(makanan);
+}
 
+makanMalam();
+console.log(makanan);

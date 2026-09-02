@@ -9,8 +9,8 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 | Field            | Isi                                                    |
 | ---------------- | ------------------------------------------------------ |
 | Modul aktif      | 7 — Function dan Method pada JavaScript                |
-| Materi aktif     | 79. Visibilitas Variabel Sesuai Scope Atau Ruang Lingkup
-| Folder           | `03-JS/Materi/53-visibilitas-variabel-sesuai-scope-atau-ruang-lingkup`
+| Materi aktif     | 82. Function Expressions
+| Folder           | `03-JS/Materi/56-function-expressions`
 | Status worksheet | ✅ Siap, belum dikerjakan |
 
 ---
@@ -26,9 +26,9 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 - [x] 76. Argument Dan Parameter Dalam Function
 - [x] 77. Multiple Parameter Dan Argument
 - [x] 78. Statement Return Pada Function
-- [ ] 79. Visibilitas Variabel Sesuai Scope Atau Ruang Lingkup
-- [ ] 80. Blocked Scope Variabel
-- [ ] 81. Lexical Scope
+- [x] 79. Visibilitas Variabel Sesuai Scope Atau Ruang Lingkup
+- [x] 80. Blocked Scope Variabel
+- [x] 81. Lexical Scope
 - [ ] 82. Function Expressions
 - [ ] 83. Function Sebagai Argument Function Lain
 - [ ] 84. Function Bernilai Balik Function
