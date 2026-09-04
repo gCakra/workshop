@@ -38,6 +38,17 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 
 ---
 
+## 🧮 Mini Project Aktif
+
+| Field    | Isi                                          |
+| -------- | -------------------------------------------- |
+| Project  | 06-Konverter Suhu                            |
+| Folder   | `00-Projects/06-konverter-suhu`              |
+| Progress | Step 1 & 2 selesai, **lanjut dari Step 3**   |
+| Catatan  | Mode tantangan: hint dikurangi, pertanyaan balik kalau stuck |
+
+---
+
 ## 📥 Buffer Sync ke CHALLENGES (belum di-checklist)
 
 - [ ] **06-Kasir-Toko-Mini** (`00-Projects/05-kasir-toko-mini`)
