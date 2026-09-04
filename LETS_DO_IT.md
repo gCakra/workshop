@@ -9,9 +9,9 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 | Field            | Isi                                                    |
 | ---------------- | ------------------------------------------------------ |
 | Modul aktif      | 7 — Function dan Method pada JavaScript                |
-| Materi aktif     | 82. Function Expressions
-| Folder           | `03-JS/Materi/56-function-expressions`
-| Status worksheet | ✅ Siap, belum dikerjakan |
+| Materi aktif     | 83. Function Sebagai Argument Function Lain
+| Folder           | (belum dibuat)
+| Status worksheet | ⏳ Belum di-generate |
 
 ---
 
@@ -29,7 +29,7 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 - [x] 79. Visibilitas Variabel Sesuai Scope Atau Ruang Lingkup
 - [x] 80. Blocked Scope Variabel
 - [x] 81. Lexical Scope
-- [ ] 82. Function Expressions
+- [x] 82. Function Expressions
 - [ ] 83. Function Sebagai Argument Function Lain
 - [ ] 84. Function Bernilai Balik Function
 - [ ] 85. Definisi Sebuah Method

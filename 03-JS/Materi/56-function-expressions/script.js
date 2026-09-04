@@ -16,7 +16,7 @@ function spiEnam() {
 }
 
 // Expression (cara baru — simpan function di variabel):
-const spiEnam2 = function () {
+const spiEnam2 = function() {
   return "Ini function expression";
 };
 
@@ -28,7 +28,7 @@ console.log(spiEnam2());
 // ──────────────────────────────────────────
 
 // Anonymous (tanpa nama) — paling umum:
-const tambah = function (a, b) {
+const tambah = function(a, b) {
   return a + b;
 };
 
@@ -61,7 +61,7 @@ console.log(kurang(10, 4)); // 6
 //          Panggil dan console.log hasilnya dengan nilai 8 dan 5.
 
 // -- tulis kode di sini --
-const luas = function (panjang, lebar) {
+const luas = function(panjang, lebar) {
   return panjang * lebar;
 };
 console.log(luas(8, 5));
@@ -72,11 +72,15 @@ console.log(luas(8, 5));
 //          Panggil dengan "JavaScript" dan console.log hasilnya.
 
 // -- tulis kode di sini --
-const spiReverse = function (kalimat) {
-  return kalimat;
+const spiReverse = function(kalimat) {
+  return kalimat.split('').reverse().join('');
+
 };
 
+console.log(spiReverse("JavaScript"))
 // TUGAS 3: Apa yang terjadi jika kamu panggil function expression
 //          SEBELUM baris definisinya? Tulis jawabanmu sebagai komentar.
 
 // -- tulis jawaban di sini --
+// Akan terjadi ReferenceError karena function expression tidak di-hoist.
+// Variabel const/let masuk Temporal Dead Zone sebelum baris definisinya.
