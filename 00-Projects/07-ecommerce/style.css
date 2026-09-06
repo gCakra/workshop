@@ -1,0 +1,39 @@
+/* === RESET & BASE === */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f5f5f5;
+  color: #333;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  font-size: 2rem;
+}
+
+header p {
+  color: #777;
+}
+
+/* === KATALOG === */
+#katalog h2 {
+  margin-bottom: 15px;
+}
+
+#daftar-produk {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+/* TUGAS 1: Style untuk kartu produk — kerjakan di sini */

@@ -11,7 +11,7 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 | Modul aktif      | 8 — Callback Function dan Method-method milik Array    |
 | Materi aktif     | 88. Foreach Method
 | Folder           | `03-JS/Materi/62-foreach-method`
-| Status worksheet | 📝 Belum dibuat |
+| Status worksheet | 📝 Siap, belum dikerjakan |
 
 ---
 
@@ -37,10 +37,10 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 
 | Field    | Isi                                          |
 | -------- | -------------------------------------------- |
-| Project  | 06-Konverter Suhu                            |
-| Folder   | `00-Projects/06-konverter-suhu`              |
-| Progress | ✅ Selesai                                   |
-| Catatan  | Mode tantangan: hint dikurangi, pertanyaan balik kalau stuck |
+| Project  | 07-E-Commerce (TokoKu)                      |
+| Folder   | `00-Projects/07-ecommerce`                   |
+| Progress | 🔧 Tugas Retroaktif 1 — Object + DOM        |
+| Catatan  | ⚠️ **WAJIB:** Tiap generate worksheet materi baru, salah satu tugas di worksheet HARUS bertema 🛒 E-Commerce (konteks toko online: katalog, keranjang, checkout). Bukan file terpisah — langsung di dalam worksheet materi itu. |
 
 ---
 
