@@ -47,8 +47,17 @@ console.log(`212F = ${fahrenheitKeC(212)}C`)
 //
 //         Contoh: konversi(100, "C", "F") → 212
 // ──────────────────────────────────────────
+const konversi = function(suhu, dari, ke) {
+  if (dari === "C" && ke === "F") {
+    return celsiusKeF(suhu)
+  } else if (dari === "C" && ke === "K") {
+    return celsiusKeK(suhu)
+  } else if (dari === "F" && ke === "C") {
+    return fahrenheitKeC(suhu)
+  }
+}
 
-
+console.log(konversi(100, "C", "F"))
 
 // ──────────────────────────────────────────
 // STEP 4: Panggil "konversi" beberapa kali
@@ -59,4 +68,7 @@ console.log(`212F = ${fahrenheitKeC(212)}C`)
 //         konversi(0, "C", "F")    → 32
 // ──────────────────────────────────────────
 
-
+console.log(konversi(100, "C", "F"))
+console.log(konversi(100, "C", "K"))
+console.log(konversi(212, "F", "C"))
+console.log(konversi(0, "C", "F"))

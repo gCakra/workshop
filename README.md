@@ -131,15 +131,15 @@ Selamat datang! Gunakan file ini untuk melacak progres belajarmu dari HTML, CSS,
 - [x] 76. Argument Dan Parameter Dalam Function
 - [x] 77. Multiple Parameter Dan Argument
 - [x] 78. Statement Return Pada Function
-- [ ] 79. Visibilitas Variabel Sesuai Scope Atau Ruang Lingkup
-- [ ] 80. Blocked Scope Variabel
-- [ ] 81. Lexical Scope
-- [ ] 82. Function Expressions
-- [ ] 83. Function Sebagai Argument Function Lain
-- [ ] 84. Function Bernilai Balik Function
-- [ ] 85. Definisi Sebuah Method
-- [ ] 86. This Adalah Keyword Sakti
-- [ ] 87. Try And Catch Adalah Penyelamat
+- [x] 79. Visibilitas Variabel Sesuai Scope Atau Ruang Lingkup
+- [x] 80. Blocked Scope Variabel
+- [x] 81. Lexical Scope
+- [x] 82. Function Expressions
+- [x] 83. Function Sebagai Argument Function Lain
+- [x] 84. Function Bernilai Balik Function
+- [x] 85. Definisi Sebuah Method
+- [x] 86. This Adalah Keyword Sakti
+- [x] 87. Try And Catch Adalah Penyelamat
 
 ### **MODUL 8 — Callback Function dan Method-method milik Array**
 

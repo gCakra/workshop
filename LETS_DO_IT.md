@@ -8,10 +8,10 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 
 | Field            | Isi                                                    |
 | ---------------- | ------------------------------------------------------ |
-| Modul aktif      | 7 — Function dan Method pada JavaScript                |
-| Materi aktif     | 83. Function Sebagai Argument Function Lain
-| Folder           | (belum dibuat)
-| Status worksheet | ⏳ Belum di-generate |
+| Modul aktif      | 8 — Callback Function dan Method-method milik Array    |
+| Materi aktif     | 88. Foreach Method
+| Folder           | `03-JS/Materi/62-foreach-method`
+| Status worksheet | 📝 Belum dibuat |
 
 ---
 
@@ -19,22 +19,17 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 
 > Diambil 1x dari `README.md` saat modul ini dimulai. Centang di sini tiap materi selesai. Saat SEMUA tercentang → trigger sync ke README (lihat MENTOR.md).
 
-### **MODUL 7 — Function dan Method pada JavaScript**
+### **MODUL 8 — Callback Function dan Method-method milik Array**
 
-- [x] 74. Pengenalan Function Di Javascript
-- [x] 75. Mendefinisikan Dan Menjalankan Function
-- [x] 76. Argument Dan Parameter Dalam Function
-- [x] 77. Multiple Parameter Dan Argument
-- [x] 78. Statement Return Pada Function
-- [x] 79. Visibilitas Variabel Sesuai Scope Atau Ruang Lingkup
-- [x] 80. Blocked Scope Variabel
-- [x] 81. Lexical Scope
-- [x] 82. Function Expressions
-- [ ] 83. Function Sebagai Argument Function Lain
-- [ ] 84. Function Bernilai Balik Function
-- [ ] 85. Definisi Sebuah Method
-- [ ] 86. This Adalah Keyword Sakti
-- [ ] 87. Try And Catch Adalah Penyelamat
+- [ ] 88. Foreach Method
+- [ ] 89. Map Method
+- [ ] 90. Sebelum Lanjut Kenalan Dengan Arrow Function
+- [ ] 91. Return Secara Implisit Dari Arrow Function
+- [ ] 92. Memahami Settimeout Dan Setinterval
+- [ ] 93. Memiilh Data Tertentu Di Dalam Array Dengan Filter Method
+- [ ] 94. Menentukan Benar Atau Salah Pada Array Dengan Every Dan Some Method
+- [ ] 95. Mendapatkan Satu Nilai Sesuai Kondisi Dari Sebuah Array Dengan Reduce
+- [ ] 96. Object This Di Dalam Arrow Function Mengarah Pada Object Global Window
 
 ---
 
@@ -44,13 +39,13 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 | -------- | -------------------------------------------- |
 | Project  | 06-Konverter Suhu                            |
 | Folder   | `00-Projects/06-konverter-suhu`              |
-| Progress | Step 1 & 2 selesai, **lanjut dari Step 3**   |
+| Progress | ✅ Selesai                                   |
 | Catatan  | Mode tantangan: hint dikurangi, pertanyaan balik kalau stuck |
 
 ---
 
 ## 📥 Buffer Sync ke CHALLENGES (belum di-checklist)
 
-- [ ] **06-Kasir-Toko-Mini** (`00-Projects/05-kasir-toko-mini`)
+- [ ] **06-Konverter-Suhu** (`00-Projects/06-konverter-suhu`)
 
 ---
