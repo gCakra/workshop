@@ -9,9 +9,9 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 | Field            | Isi                                                    |
 | ---------------- | ------------------------------------------------------ |
 | Modul aktif      | 8 — Callback Function dan Method-method milik Array    |
-| Materi aktif     | 88. Foreach Method
-| Folder           | `03-JS/Materi/62-foreach-method`
-| Status worksheet | 📝 Siap, belum dikerjakan |
+| Materi aktif     | 89. Map Method
+| Folder           | `03-JS/Materi/63-map-method`
+| Status worksheet | ✅ Siap, belum dikerjakan |
 
 ---
 
@@ -21,7 +21,7 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 
 ### **MODUL 8 — Callback Function dan Method-method milik Array**
 
-- [ ] 88. Foreach Method
+- [x] 88. Foreach Method
 - [ ] 89. Map Method
 - [ ] 90. Sebelum Lanjut Kenalan Dengan Arrow Function
 - [ ] 91. Return Secara Implisit Dari Arrow Function
