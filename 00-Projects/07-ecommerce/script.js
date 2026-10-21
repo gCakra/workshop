@@ -7,7 +7,11 @@ const products = [
   { id: 5, nama: "Tas Ransel", harga: 320000, gambar: "🎒", stok: 12 },
   { id: 6, nama: "Kacamata Hitam", harga: 150000, gambar: "🕶️", stok: 10 },
 ];
+function formatRupiah(angka) {
+  return "Rp " + angka.toLocaleString("id-ID");
+}
 
+formatRupiah(products.angka);
 // === TUGAS 1: RENDER KATALOG PRODUK ===
 //
 // Instruksi:
@@ -28,3 +32,8 @@ const products = [
 // 3. Panggil renderProduk() di baris terakhir
 //
 // Kerjakan di bawah ini 👇
+
+//tugas 2
+function renderProduk() {
+  return;
+}

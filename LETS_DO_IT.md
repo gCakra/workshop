@@ -9,9 +9,11 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 | Field            | Isi                                                    |
 | ---------------- | ------------------------------------------------------ |
 | Modul aktif      | 8 — Callback Function dan Method-method milik Array    |
-| Materi aktif     | 89. Map Method
-| Folder           | `03-JS/Materi/63-map-method`
-| Status worksheet | ✅ Siap, belum dikerjakan |
+| Materi aktif     | 93. Memililh Data Tertentu Di Dalam Array Dengan Filter Method |
+| Folder           | — (belum dibuat) |
+| Status worksheet | ⏳ Belum ada |
+| Catatan          | — |
+| Gaya mengajar    | 🎯 **Narasi/cerita perintah** — jelaskan konsep pakai analogi "kamu lagi ngapain" supaya Garda bisa "ngomong dalam hati" langkah-langkahnya sambil nulis kode. Contoh: function = resep masakan, forEach = baca daftar satu per satu, map = bikin daftar baru dari daftar lama, variabel = bikin perintah yang di dalamnya sudah include langkah-langkahnya, implicit return = langsung sebutin hasilnya tanpa ribet. |
 
 ---
 
@@ -22,10 +24,10 @@ Baca file ini duluan di setiap sesi. Checklist modul aktif ada di bawah — kerj
 ### **MODUL 8 — Callback Function dan Method-method milik Array**
 
 - [x] 88. Foreach Method
-- [ ] 89. Map Method
-- [ ] 90. Sebelum Lanjut Kenalan Dengan Arrow Function
-- [ ] 91. Return Secara Implisit Dari Arrow Function
-- [ ] 92. Memahami Settimeout Dan Setinterval
+- [x] 89. Map Method
+- [x] 90. Sebelum Lanjut Kenalan Dengan Arrow Function
+- [x] 91. Return Secara Implisit Dari Arrow Function
+- [x] 92. Memahami Settimeout Dan Setinterval
 - [ ] 93. Memiilh Data Tertentu Di Dalam Array Dengan Filter Method
 - [ ] 94. Menentukan Benar Atau Salah Pada Array Dengan Every Dan Some Method
 - [ ] 95. Mendapatkan Satu Nilai Sesuai Kondisi Dari Sebuah Array Dengan Reduce

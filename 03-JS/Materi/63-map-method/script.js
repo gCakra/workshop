@@ -54,9 +54,11 @@ const namaLengkap = [
 ];
 
 // 🔽 Tulis kode kamu di sini:
-const namaDepan = namaLengkap.map();
+const namaDepan = namaLengkap.map(function (item) {
+  return item.split(" ")[0];
+});
 // tampilkan("Tugas 2 — Nama Depan", namaDepan);
-
+console.log("Tugas 2 Nama Depan", namaDepan);
 // ============================================
 // TUGAS 3: Ubah Array Angka Jadi Label Harga
 // ============================================
@@ -68,8 +70,12 @@ const namaDepan = namaLengkap.map();
 const hargaAngka = [15000, 250000, 1200000, 50000];
 
 // 🔽 Tulis kode kamu di sini:
+const labelHarga = hargaAngka.map(function (item) {
+  return "Rp " + item.toLocaleString("id-ID");
+});
 
 // tampilkan("Tugas 3 — Label Harga", labelHarga);
+console.log("Tugas 3 - Label Harga", labelHarga);
 
 // ============================================
 // 🛒 TUGAS 4: E-Commerce — Hitung Harga Diskon
@@ -90,10 +96,16 @@ const produkToko = [
 ];
 
 // 🔽 Tulis kode kamu di sini:
-
-// tampilkan("Tugas 4 — Produk + Diskon", produkDiskon);
-
-// ============================================
+const produkDiskon = produkToko.map(function (item) {
+  const potongan = item.harga - (item.harga * item.diskon) / 100;
+  return {
+    nama: item.nama,
+    harga: item.harga,
+    diskon: item.diskon,
+    hargaDiskon: potongan,
+    label: item.nama + " — Rp " + potongan.toLocaleString("id-ID"),
+  };
+}); // ============================================
 // TUGAS 5: Map vs forEach — Buktikan Bedanya!
 // ============================================
 // a) Gunakan forEach untuk mengalikan setiap angka x3,
@@ -105,6 +117,13 @@ const produkToko = [
 const dataNilai = [10, 20, 30];
 
 // 🔽 Tulis kode kamu di sini:
-
+const hasilForEach = dataNilai.forEach(function (item) {
+  return item * 3;
+});
+const hasilMap = dataNilai.map(function (item) {
+  return item * 3;
+});
 // tampilkan("Tugas 5a — Hasil forEach", hasilForEach);
+console.log("Tugas 5a - Hasil forEach", hasilForEach);
 // tampilkan("Tugas 5b — Hasil map", hasilMap);
+console.log("Tugas 5b - HasilMap", hasilMap);
